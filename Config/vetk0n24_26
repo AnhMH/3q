@@ -1,0 +1,575 @@
+<?xml version="1.0" standalone="yes"?>
+<DSAuto_Info xmlns="http://tempuri.org/DSAuto_Info.xsd">
+  <tbl_Auto_ThuThue>
+    <Auto_Thu_Thue>false</Auto_Thu_Thue>
+    <Uu_Tien_Cau_Hoi />
+    <Is_Tang_Cuong_Thu_Thue>false</Is_Tang_Cuong_Thu_Thue>
+    <So_Xu_Tang_Cuong>0</So_Xu_Tang_Cuong>
+    <Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>false</Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>
+    <So_Luot_Tich_Luy_Thu_Thue>0</So_Luot_Tich_Luy_Thu_Thue>
+    <Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>false</Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>
+  </tbl_Auto_ThuThue>
+  <tbl_Auto_Ruong_Mo>
+    <Is_Auto>true</Is_Auto>
+    <Hinh_Thuc_Chiem>1</Hinh_Thuc_Chiem>
+    <RM_1 />
+    <RM_2 />
+    <Is_Khong_An_Mua_Dong>False</Is_Khong_An_Mua_Dong>
+    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
+    <Is_Chiem_Toi_Da_So_Ruong>False</Is_Chiem_Toi_Da_So_Ruong>
+    <Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>false</Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
+    <So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>0</So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
+  </tbl_Auto_Ruong_Mo>
+  <tbl_Auto_Ruong_Mo>
+    <Is_Auto>true</Is_Auto>
+    <Hinh_Thuc_Chiem>1</Hinh_Thuc_Chiem>
+    <RM_1 />
+    <RM_2 />
+    <Is_Khong_An_Mua_Dong>False</Is_Khong_An_Mua_Dong>
+    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
+    <Is_Chiem_Toi_Da_So_Ruong>False</Is_Chiem_Toi_Da_So_Ruong>
+  </tbl_Auto_Ruong_Mo>
+  <tbl_Auto_Khac>
+    <Is_Auto_Nhan_Bong_Loc>true</Is_Auto_Nhan_Bong_Loc>
+    <Is_Auto_Mo_Ruong>false</Is_Auto_Mo_Ruong>
+    <Is_Auto_Bang_Hoi_Chien>true</Is_Auto_Bang_Hoi_Chien>
+    <Is_Auto_Ngan_Khoang_Chien>true</Is_Auto_Ngan_Khoang_Chien>
+    <Is_Dong_Loat_Tan_Cong>false</Is_Dong_Loat_Tan_Cong>
+    <So_Bac_Toi_Thieu>0</So_Bac_Toi_Thieu>
+    <Is_Auto_Than_Thu_Chien>false</Is_Auto_Than_Thu_Chien>
+    <Is_TTC_Bach_Ho>false</Is_TTC_Bach_Ho>
+    <Is_TTC_Huyen_Vu>false</Is_TTC_Huyen_Vu>
+    <Is_TTC_Chu_Tuoc>false</Is_TTC_Chu_Tuoc>
+    <Is_TTC_Thanh_Long>false</Is_TTC_Thanh_Long>
+    <TTC_Is_Chuyen_Tran_Khi_Danh>false</TTC_Is_Chuyen_Tran_Khi_Danh>
+    <TTC_Tran_1>9</TTC_Tran_1>
+    <TTC_Tran_2>16</TTC_Tran_2>
+    <TTC_Is_Tu_Co_Vu>false</TTC_Is_Tu_Co_Vu>
+    <TTC_Gioi_Han_Co_Vu>10</TTC_Gioi_Han_Co_Vu>
+    <TTC_Loai_Co_Vu>0</TTC_Loai_Co_Vu>
+    <TTC_Is_Pha_Bang>false</TTC_Is_Pha_Bang>
+    <TTC_Top_Pha_Bang>10</TTC_Top_Pha_Bang>
+    <Is_Auto_Nhan_Thuong_Su_Kien>true</Is_Auto_Nhan_Thuong_Su_Kien>
+    <Is_Auto_Cong_Thanh_Chien>false</Is_Auto_Cong_Thanh_Chien>
+    <Is_Auto_Thu_Lua_Nong_Truong>true</Is_Auto_Thu_Lua_Nong_Truong>
+    <Is_Log_Message>false</Is_Log_Message>
+    <Thoi_Gian_BHC>10</Thoi_Gian_BHC>
+    <Is_Buff_BHC>false</Is_Buff_BHC>
+    <Chien_Tich_BHC>0</Chien_Tich_BHC>
+    <Tong_Chi_So_BHC>10</Tong_Chi_So_BHC>
+    <Is_Auto_Tu_Dong_Quay_So>false</Is_Auto_Tu_Dong_Quay_So>
+    <Is_Auto_Diem_Tuong_Dai>false</Is_Auto_Diem_Tuong_Dai>
+    <Is_Auto_Tram_Tuong>false</Is_Auto_Tram_Tuong>
+    <Is_TTC_Tu_Nguu>false</Is_TTC_Tu_Nguu>
+    <Is_TLD>false</Is_TLD>
+    <ID_TLD />
+    <Is_Auto_Van_Tieu>False</Is_Auto_Van_Tieu>
+  </tbl_Auto_Khac>
+  <tbl_Quan_Doi>
+    <Is_Auto_Dao_Tao_Linh>false</Is_Auto_Dao_Tao_Linh>
+    <So_Luong_Linh_Toi_Da>0</So_Luong_Linh_Toi_Da>
+    <Is_Tuyen_Linh>False</Is_Tuyen_Linh>
+  </tbl_Quan_Doi>
+  <tbl_Chien_Tich>
+    <Is_Auto_Chien_Tich>false</Is_Auto_Chien_Tich>
+    <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
+    <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
+    <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>
+    <Is_Su_Dung_Gio_Client>false</Is_Su_Dung_Gio_Client>
+    <Is_Chi_Danh_Quan_Doan_Vao_Gio_Tinh_Anh>false</Is_Chi_Danh_Quan_Doan_Vao_Gio_Tinh_Anh>
+    <Is_Tu_Out_Quan_Doan_Timeout>false</Is_Tu_Out_Quan_Doan_Timeout>
+    <Timeout_Tham_Gia_Quan_Doan>120</Timeout_Tham_Gia_Quan_Doan>
+    <Is_Chi_Tham_Gia_To_Doi_Chi_Dinh>false</Is_Chi_Tham_Gia_To_Doi_Chi_Dinh>
+    <Is_Khong_Tham_Gia_To_Doi_Chi_Dinh>false</Is_Khong_Tham_Gia_To_Doi_Chi_Dinh>
+    <Is_Danh_Het_Tung_Quan_Doi>false</Is_Danh_Het_Tung_Quan_Doi>
+    <Is_Chay_Quan_Doan_Khi_Du_Nguoi>false</Is_Chay_Quan_Doan_Khi_Du_Nguoi>
+    <So_Nguoi_Du_Chay>0</So_Nguoi_Du_Chay>
+    <So_Xu_Pha_Bang_Toi_Da>0</So_Xu_Pha_Bang_Toi_Da>
+    <Is_Chi_Farm_Trang_Bi_Vao_Gio_Reset>false</Is_Chi_Farm_Trang_Bi_Vao_Gio_Reset>
+    <Is_Chi_Pha_Bang_Vao_Gio_Farm_Trang_Bi>false</Is_Chi_Pha_Bang_Vao_Gio_Farm_Trang_Bi>
+    <Thoi_Gian_Farm_Trang_Bi>0</Thoi_Gian_Farm_Trang_Bi>
+    <Is_Chi_Host_Quan_Doan>false</Is_Chi_Host_Quan_Doan>
+    <Is_Danh_Theo_Thoi_Gian_Chi_Dinh>false</Is_Danh_Theo_Thoi_Gian_Chi_Dinh>
+    <Phut_Chi_Dinh>0</Phut_Chi_Dinh>
+    <Giay_Chi_Dinh>0</Giay_Chi_Dinh>
+    <Phut_Chi_Dinh_Tiep_Theo>0</Phut_Chi_Dinh_Tiep_Theo>
+    <Giay_Chi_Dinh_Tiep_Theo>0</Giay_Chi_Dinh_Tiep_Theo>
+  </tbl_Chien_Tich>
+  <tbl_Tuong_Quan>
+    <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
+    <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
+    <Is_Auto_Manh_Tien>true</Is_Auto_Manh_Tien>
+    <Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>false</Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>
+    <Chien_Tich_Manh_Tien>200</Chien_Tich_Manh_Tien>
+    <Loai_Khoi_Tao_Huan_Luyen_Su>1</Loai_Khoi_Tao_Huan_Luyen_Su>
+    <Is_Auto_Chuyen_Sinh>False</Is_Auto_Chuyen_Sinh>
+    <Is_Auto_Cai_Tien>false</Is_Auto_Cai_Tien>
+    <Chien_Tich_Cai_Tien>2000</Chien_Tich_Cai_Tien>
+    <Xu_Cai_Tien>6</Xu_Cai_Tien>
+    <Is_Chi_Cai_Tien_Cac_Tuong_Max_Level>false</Is_Chi_Cai_Tien_Cac_Tuong_Max_Level>
+  </tbl_Tuong_Quan>
+  <tbl_Danh_Sach_Luyen_Tuong>
+    <ID_Tuong_Quan>3</ID_Tuong_Quan>
+  </tbl_Danh_Sach_Luyen_Tuong>
+  <tbl_Danh_Sach_Luyen_Tuong>
+    <ID_Tuong_Quan>40</ID_Tuong_Quan>
+  </tbl_Danh_Sach_Luyen_Tuong>
+  <tbl_Danh_Sach_Luyen_Tuong>
+    <ID_Tuong_Quan>242</ID_Tuong_Quan>
+  </tbl_Danh_Sach_Luyen_Tuong>
+  <tbl_Danh_Sach_Manh_Tien>
+    <ID_Tuong_Quan>3</ID_Tuong_Quan>
+    <Manh_Tien_Limit>0</Manh_Tien_Limit>
+  </tbl_Danh_Sach_Manh_Tien>
+  <tbl_Trang_Bi>
+    <Is_Auto_Nang_Trang_Bi>true</Is_Auto_Nang_Trang_Bi>
+    <Ma_Luc_Nang_Trang_Bi>0</Ma_Luc_Nang_Trang_Bi>
+    <Is_Ban_Trang_Bi>false</Is_Ban_Trang_Bi>
+    <Loai_Trang_Bi_Ban>0000000</Loai_Trang_Bi_Ban>
+    <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
+  </tbl_Trang_Bi>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>5795</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>5802</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Cong_Trinh>
+    <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
+    <Bac_Nang_Cong_Trinh>0</Bac_Nang_Cong_Trinh>
+    <Level_Ep_Cap_Toan_Bo>35</Level_Ep_Cap_Toan_Bo>
+  </tbl_Cong_Trinh>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>6</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>5</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>3</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>1</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Det>
+    <Is_Auto_Det>false</Is_Auto_Det>
+    <Gia_Det>0</Gia_Det>
+    <Loai_Hinh_Tham_Gia_Det>1</Loai_Hinh_Tham_Gia_Det>
+    <Slot_1 />
+    <Slot_2 />
+    <Chu_Team_Det />
+    <Loai_Hinh_Party_Det>1</Loai_Hinh_Party_Det>
+    <Cap_Vai_Det>0</Cap_Vai_Det>
+    <Gioi_Han_Level_Det>0</Gioi_Han_Level_Det>
+    <Is_Det_Khi_Du_Thuong_Minh>false</Is_Det_Khi_Du_Thuong_Minh>
+    <Is_Chuyen_Sinh_Cong_Nhan>false</Is_Chuyen_Sinh_Cong_Nhan>
+    <Is_Tu_Tan_Cong_Khi_Bi_Mien_Chien>false</Is_Tu_Tan_Cong_Khi_Bi_Mien_Chien>
+    <CN111 />
+    <CN112 />
+    <CN121 />
+    <CN122 />
+    <CN211 />
+    <CN212 />
+    <CN221 />
+    <CN222 />
+    <CN311 />
+    <CN312 />
+    <CN321 />
+    <CN322 />
+    <CN411 />
+    <CN412 />
+    <CN421 />
+    <CN422 />
+    <CN511 />
+    <CN512 />
+    <CN521 />
+    <CN522 />
+    <CN113 />
+    <CN123 />
+    <CN213 />
+    <CN223 />
+    <CN313 />
+    <CN323 />
+    <CN413 />
+    <CN423 />
+    <CN513 />
+    <CN523 />
+    <Is_Pha_Bang_Det>false</Is_Pha_Bang_Det>
+    <So_Xu_Pha_Bang>0</So_Xu_Pha_Bang>
+    <Is_Det_Vai_Cao_Nhat>false</Is_Det_Vai_Cao_Nhat>
+    <Thoi_Gian_Cho_Det>300</Thoi_Gian_Cho_Det>
+    <Is_Tu_Tuyen_Thuong_Minh>false</Is_Tu_Tuyen_Thuong_Minh>
+    <Thoi_Diem_Tuyen_Thuong_Minh>2000-01-01T11:00:00+07:00</Thoi_Diem_Tuyen_Thuong_Minh>
+    <Vai_Uu_Tien />
+  </tbl_Det>
+  <tbl_Ky_Nang>
+    <Is_Auto_Ky_Nang>true</Is_Auto_Ky_Nang>
+    <Chien_Tich_Nang_Ky_Nang>0</Chien_Tich_Nang_Ky_Nang>
+  </tbl_Ky_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>5</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>6</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>11</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Linh_Thu>
+    <Is_Auto_Linh_Thu>false</Is_Auto_Linh_Thu>
+    <Is_Auto_Nang_Linh_Thu>false</Is_Auto_Nang_Linh_Thu>
+    <Ma_Luc_Nang_Linh_Thu>90</Ma_Luc_Nang_Linh_Thu>
+    <Is_Auto_Ha_Linh_Thu>false</Is_Auto_Ha_Linh_Thu>
+    <Is_Auto_Ban_Linh_Thu>false</Is_Auto_Ban_Linh_Thu>
+    <Is_Ban_Linh_Thu_Trang>false</Is_Ban_Linh_Thu_Trang>
+    <Is_Ban_Linh_Thu_Xanh_Duong>false</Is_Ban_Linh_Thu_Xanh_Duong>
+    <Is_Ban_Linh_Thu_Xanh_Dam>false</Is_Ban_Linh_Thu_Xanh_Dam>
+    <Is_Ban_Linh_Thu_Vang>false</Is_Ban_Linh_Thu_Vang>
+    <Is_Ban_Linh_Thu_Do>false</Is_Ban_Linh_Thu_Do>
+    <Is_Ban_Linh_Thu_Tim>false</Is_Ban_Linh_Thu_Tim>
+    <Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>false</Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>
+    <Is_Cho_Linh_Thu_An>false</Is_Cho_Linh_Thu_An>
+    <SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>0</SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>
+    <Is_Pha_Bang_Nang_Cap>false</Is_Pha_Bang_Nang_Cap>
+    <Is_Ban_Linh_Thu_Cam>false</Is_Ban_Linh_Thu_Cam>
+  </tbl_Linh_Thu>
+  <tbl_Uy_Phai>
+    <Is_Auto_Uy_Phai>false</Is_Auto_Uy_Phai>
+    <Loai_Hinh_Uy_Phai>1</Loai_Hinh_Uy_Phai>
+    <Is_Ban_Trang_Bi>false</Is_Ban_Trang_Bi>
+    <Is_TB_Trang>false</Is_TB_Trang>
+    <Is_TB_Xanh_Duong>false</Is_TB_Xanh_Duong>
+    <Is_TB_Xanh_Dam>false</Is_TB_Xanh_Dam>
+    <Is_TB_Vang>false</Is_TB_Vang>
+    <Is_TB_Do>false</Is_TB_Do>
+    <Is_TB_Tim>false</Is_TB_Tim>
+    <Is_Ban_Linh_Thu>false</Is_Ban_Linh_Thu>
+    <Is_LT_Trang>false</Is_LT_Trang>
+    <Is_LT_Xanh_Duong>false</Is_LT_Xanh_Duong>
+    <Is_LT_Xanh_Dam>false</Is_LT_Xanh_Dam>
+    <Is_LT_Vang>false</Is_LT_Vang>
+    <Is_LT_Do>false</Is_LT_Do>
+    <Gioi_Han_Uy_Phai>4</Gioi_Han_Uy_Phai>
+    <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
+    <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
+    <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
+  </tbl_Uy_Phai>
+  <tbl_Thuong_Doi>
+    <Is_Auto_Thuong_Doi>false</Is_Auto_Thuong_Doi>
+    <Is_Nhan_Thuong_Doi>false</Is_Nhan_Thuong_Doi>
+    <Is_Chi_Nhan_Thuong_Doi_Chua_Co>false</Is_Chi_Nhan_Thuong_Doi_Chua_Co>
+    <Is_Rao_Moi_Thuong_Doi>false</Is_Rao_Moi_Thuong_Doi>
+    <Is_Tu_Gui_Thuong_Doi>false</Is_Tu_Gui_Thuong_Doi>
+    <Thoi_Gian_Timeout>2</Thoi_Gian_Timeout>
+    <Is_Tu_Nang_Dich_Tram>false</Is_Tu_Nang_Dich_Tram>
+    <Is_Uu_Tien_Goi_Thuong_Minh>false</Is_Uu_Tien_Goi_Thuong_Minh>
+  </tbl_Thuong_Doi>
+  <tbl_Uy_Danh>
+    <Is_Auto_uy_Danh>false</Is_Auto_uy_Danh>
+    <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
+    <Is_Dau_Tu>false</Is_Dau_Tu>
+    <Loai_Hinh_Dau_Tu>3</Loai_Hinh_Dau_Tu>
+    <Is_Dau_Tu_X2>false</Is_Dau_Tu_X2>
+    <Loai_Hinh_Dau_Tu_X2>2</Loai_Hinh_Dau_Tu_X2>
+    <Is_Danh_Thanh>false</Is_Danh_Thanh>
+    <Is_Dung_Luot_Mien_Phi>false</Is_Dung_Luot_Mien_Phi>
+    <Gioi_Han_Level_Danh>0</Gioi_Han_Level_Danh>
+    <Gioi_Han_Mau>8</Gioi_Han_Mau>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Is_X2_Tan_Cong>false</Is_X2_Tan_Cong>
+    <Loai_Hinh_X2_Tan_Cong>1</Loai_Hinh_X2_Tan_Cong>
+    <Is_Chien_Tich_Doi_Uy_Danh>false</Is_Chien_Tich_Doi_Uy_Danh>
+  </tbl_Uy_Danh>
+  <tbl_Cho>
+    <Is_Auto_Mua_Lua>false</Is_Auto_Mua_Lua>
+    <Is_Auto_Ban_Lua>false</Is_Auto_Ban_Lua>
+    <Gia_Mua_Lua>0.6</Gia_Mua_Lua>
+    <Gia_Ban_Lua>1.8</Gia_Ban_Lua>
+    <Ton_Lua_Toi_Thieu>20000</Ton_Lua_Toi_Thieu>
+    <Is_Tu_Nang_Cho>False</Is_Tu_Nang_Cho>
+  </tbl_Cho>
+  <tbl_Thoi_Luyen>
+    <Is_Auto_Thoi_Luyen>False</Is_Auto_Thoi_Luyen>
+    <Ma_Luc_Thoi_Luyen>90</Ma_Luc_Thoi_Luyen>
+    <Tinh_Thach_Thoi_Luyen>500</Tinh_Thach_Thoi_Luyen>
+  </tbl_Thoi_Luyen>
+  <tbl_Te_Than>
+    <Is_Auto_Te_Than>false</Is_Auto_Te_Than>
+    <Phuong_Thuc_Te_Than>2</Phuong_Thuc_Te_Than>
+    <Is_Te_Than_Mua>false</Is_Te_Than_Mua>
+    <Is_Te_Than_Mat_Troi>false</Is_Te_Than_Mat_Troi>
+    <Is_Te_Than_Mat_Trang>false</Is_Te_Than_Mat_Trang>
+    <Is_Te_Than_Gio>false</Is_Te_Than_Gio>
+    <Is_Te_Than_Sam>false</Is_Te_Than_Sam>
+    <Is_Te_Than_Sao>false</Is_Te_Than_Sao>
+    <Is_Te_Than_May>false</Is_Te_Than_May>
+    <Is_Pha_Bang_Te_Than>false</Is_Pha_Bang_Te_Than>
+    <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
+    <Xu_Toi_Thieu>0</Xu_Toi_Thieu>
+  </tbl_Te_Than>
+  <tbl_Cho_Den>
+    <Is_Auto_Cho_Den>false</Is_Auto_Cho_Den>
+    <Danh_Sach_Trang_Bi_Can_Mua />
+    <Min_Xu>0</Min_Xu>
+    <Min_Bac>0</Min_Bac>
+  </tbl_Cho_Den>
+  <tbl_Truy_Na>
+    <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
+    <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
+    <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
+    <Is_Luon_Dung_Luot_Mien_Phi>false</Is_Luon_Dung_Luot_Mien_Phi>
+    <Is_Truy_Na_Theo_Quoc_Gia>0</Is_Truy_Na_Theo_Quoc_Gia>
+    <Is_Truy_Na_Ngo>0</Is_Truy_Na_Ngo>
+    <Is_Truy_Na_Thuc>0</Is_Truy_Na_Thuc>
+    <Is_Truy_Na_Nguy>0</Is_Truy_Na_Nguy>
+    <Is_Tu_Hoc_Truy_Na>true</Is_Tu_Hoc_Truy_Na>
+    <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>1</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
+  </tbl_Truy_Na>
+  <tbl_Mua_Ruong>
+    <Is_Auto_Mua_Ruong>false</Is_Auto_Mua_Ruong>
+    <Is_Mua_Thiet_Ruong>false</Is_Mua_Thiet_Ruong>
+    <Is_Mua_Dong_Ruong>false</Is_Mua_Dong_Ruong>
+    <Gia_Tri_Thiet_Ruong>0</Gia_Tri_Thiet_Ruong>
+    <Gia_Tri_Dong_Ruong>0</Gia_Tri_Dong_Ruong>
+  </tbl_Mua_Ruong>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>quanvũ</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_Event31_05>
+    <Is_Auto_Event>false</Is_Auto_Event>
+    <Is_Mo_Nen>false</Is_Mo_Nen>
+    <Is_Mo_Banh_Ngot>false</Is_Mo_Banh_Ngot>
+    <Is_Mo_Banh_Kem>false</Is_Mo_Banh_Kem>
+    <Is_Tu_Mua_Banh_Ngot>false</Is_Tu_Mua_Banh_Ngot>
+  </tbl_Event31_05>
+  <tbl_Bang_Hoi>
+    <Is_Auto_Dong_Gop_Bang_Hoi>false</Is_Auto_Dong_Gop_Bang_Hoi>
+    <Ky_Nang_Dong_Gop>0</Ky_Nang_Dong_Gop>
+  </tbl_Bang_Hoi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>1</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Lâu Lan</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>2</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Tây Vực</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>3</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Ba Thục</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>4</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Đại Lý</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>5</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Mân Nam</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>6</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Liêu Đông</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>7</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Quan Đông</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>8</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Hoài Nam</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>9</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Kinh Sở</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>10</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Nam Việt</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>11</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Tầm Dương</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Thuong_Doi_Uu_Tien_Goi>
+    <ID_Thuong_Minh>12</ID_Thuong_Minh>
+    <Ten_Thuong_Minh>Lĩnh Nam</Ten_Thuong_Minh>
+  </tbl_Thuong_Doi_Uu_Tien_Goi>
+  <tbl_Phan_Giai>
+    <Is_Auto_Phan_Giai>false</Is_Auto_Phan_Giai>
+  </tbl_Phan_Giai>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Quan Vũ</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Khoan_Dau>
+    <Is_Auto_Khoan_Dau>false</Is_Auto_Khoan_Dau>
+    <Is_Mua_Mui_Khoan_Vang>false</Is_Mua_Mui_Khoan_Vang>
+    <Is_Mua_Mui_Khoan_Bac>false</Is_Mua_Mui_Khoan_Bac>
+    <Is_Luon_Mua_Mui_Khoan>false</Is_Luon_Mua_Mui_Khoan>
+  </tbl_Khoan_Dau>
+  <tbl_Tap_Kich>
+    <Is_Auto_Tap_Kich>false</Is_Auto_Tap_Kich>
+    <Is_Tap_Kich_Level_Nho_Nhat>false</Is_Tap_Kich_Level_Nho_Nhat>
+    <Is_Auto_Xay_Bay>false</Is_Auto_Xay_Bay>
+    <Bay1 />
+    <Bay2 />
+    <Is_Nang_Cap_Bay>false</Is_Nang_Cap_Bay>
+    <Bac_Nang_Cap_Bay>0</Bac_Nang_Cap_Bay>
+  </tbl_Tap_Kich>
+  <tbl_Duong_Do>
+    <Is_Auto_Duong_Do>false</Is_Auto_Duong_Do>
+    <Ti_Le_Chiem_Huu_Toi_Da>0</Ti_Le_Chiem_Huu_Toi_Da>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Max_Level_Tan_Cong>0</Max_Level_Tan_Cong>
+    <Is_Tan_Cong_Ngo>false</Is_Tan_Cong_Ngo>
+    <Is_Tan_Cong_Nguy>false</Is_Tan_Cong_Nguy>
+    <Is_Tan_Cong_Thuc>false</Is_Tan_Cong_Thuc>
+  </tbl_Duong_Do>
+  <tbl_Event_San_Thu>
+    <Is_Auto_San_Thu>false</Is_Auto_San_Thu>
+    <Is_San_Tho>false</Is_San_Tho>
+    <Is_San_Lon_Rung>false</Is_San_Lon_Rung>
+    <Is_San_Huou_Sao>false</Is_San_Huou_Sao>
+    <Is_San_Gau_Xam>false</Is_San_Gau_Xam>
+    <Is_San_Ho_Vuong>false</Is_San_Ho_Vuong>
+    <Is_Tu_Tang_Cuong>false</Is_Tu_Tang_Cuong>
+  </tbl_Event_San_Thu>
+  <tbl_So_Nghien_Cuu>
+    <Is_Auto_Nghien_Cuu>false</Is_Auto_Nghien_Cuu>
+    <Is_Nang_Cap_So_Nghien_Cuu>false</Is_Nang_Cap_So_Nghien_Cuu>
+    <Chien_Tich_Toi_Thieu>0</Chien_Tich_Toi_Thieu>
+  </tbl_So_Nghien_Cuu>
+  <tbl_Event27_09>
+    <Is_Auto_Event>false</Is_Auto_Event>
+    <Is_Mo_Den_Long>false</Is_Mo_Den_Long>
+    <Is_Mo_Banh_Deo>false</Is_Mo_Banh_Deo>
+    <Is_Mo_Banh_Nuong>false</Is_Mo_Banh_Nuong>
+    <Is_Tu_Mua_Banh_Ngot>false</Is_Tu_Mua_Banh_Ngot>
+  </tbl_Event27_09>
+  <tbl_Vo_Dai>
+    <Is_Auto_Vo_Dai>false</Is_Auto_Vo_Dai>
+    <Is_Auto_Nhan_Thuong>true</Is_Auto_Nhan_Thuong>
+    <Is_Auto_Nhan_Huy_Chuong>False</Is_Auto_Nhan_Huy_Chuong>
+  </tbl_Vo_Dai>
+  <tbl_Clear_Map>
+    <Is_Auto_Clear_Map>false</Is_Auto_Clear_Map>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Is_Auto_Dau_Tu_Chiem_Thanh>false</Is_Auto_Dau_Tu_Chiem_Thanh>
+    <Area_ID />
+    <Area_ID2 />
+    <Area_ID3 />
+    <Area_ID4 />
+    <Area_ID5 />
+    <Area_ID6 />
+  </tbl_Clear_Map>
+  <tbl_Dong_Tuoc_Dai>
+    <Is_Auto_Dong_Tuoc_Dai>false</Is_Auto_Dong_Tuoc_Dai>
+    <Is_Nuoi_Bang_Bac>false</Is_Nuoi_Bang_Bac>
+    <Is_Nuoi_Bang_Xu>false</Is_Nuoi_Bang_Xu>
+    <So_Bac_Toi_Thieu_Nuoi_Chim>0</So_Bac_Toi_Thieu_Nuoi_Chim>
+    <So_Xu_Toi_Thieu_Nuoi_Chim>0</So_Xu_Toi_Thieu_Nuoi_Chim>
+    <Is_Dung_600_Xu_Chuyen_Sinh>false</Is_Dung_600_Xu_Chuyen_Sinh>
+    <Is_Tu_Nang_Huyet_Mach>false</Is_Tu_Nang_Huyet_Mach>
+    <Is_Ngung_Nuoi_Chim>false</Is_Ngung_Nuoi_Chim>
+    <Ten_Chim />
+    <Max_Level_Xung_Mach>0</Max_Level_Xung_Mach>
+  </tbl_Dong_Tuoc_Dai>
+  <tbl_Event_Tet>
+    <Is_Auto_Event_Tet>false</Is_Auto_Event_Tet>
+    <Is_Tu_Dong_Ky_Ten>false</Is_Tu_Dong_Ky_Ten>
+  </tbl_Event_Tet>
+  <tbl_Event_0803>
+    <Is_Auto_Event>false</Is_Auto_Event>
+    <Is_Hai_Hong_Phai>false</Is_Hai_Hong_Phai>
+    <Is_Hai_Hong_Tim>false</Is_Hai_Hong_Tim>
+    <Is_Hai_Hong_Xanh>false</Is_Hai_Hong_Xanh>
+  </tbl_Event_0803>
+  <tbl_Tan_Cong_Chi_Dinh>
+    <Is_Auto_Tan_Cong_Chi_Dinh>false</Is_Auto_Tan_Cong_Chi_Dinh>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+  </tbl_Tan_Cong_Chi_Dinh>
+  <tbl_Menh_Tinh>
+    <Is_Auto_Menh_Tinh>false</Is_Auto_Menh_Tinh>
+    <Bac_Gioi_Han>0</Bac_Gioi_Han>
+    <Level_Gioi_Han>5</Level_Gioi_Han>
+    <Is_San_Menh_Tinh_Khi_Co_Luot_Mien_Phi>false</Is_San_Menh_Tinh_Khi_Co_Luot_Mien_Phi>
+    <Is_Ban_Menh_Tinh>false</Is_Ban_Menh_Tinh>
+    <Is_Ban_MT_Xanh_Duong>false</Is_Ban_MT_Xanh_Duong>
+    <Is_Ban_MT_Xanh_Dam>false</Is_Ban_MT_Xanh_Dam>
+    <Is_Ban_MT_Vang>false</Is_Ban_MT_Vang>
+    <Is_Ban_MT_Do>false</Is_Ban_MT_Do>
+    <Is_Ban_MT_Tim>false</Is_Ban_MT_Tim>
+    <Is_Ban_MT_Cam>false</Is_Ban_MT_Cam>
+    <Is_Gop_Menh_Tinh>false</Is_Gop_Menh_Tinh>
+    <Is_Gop_Menh_Tinh_Xanh_Duong>false</Is_Gop_Menh_Tinh_Xanh_Duong>
+    <Is_Gop_Menh_Tinh_Xanh_Dam>false</Is_Gop_Menh_Tinh_Xanh_Dam>
+    <Is_Gop_Menh_Tinh_Vang>false</Is_Gop_Menh_Tinh_Vang>
+    <Is_Gop_Menh_Tinh_Do>false</Is_Gop_Menh_Tinh_Do>
+    <Is_Gop_Menh_Tinh_Tim>false</Is_Gop_Menh_Tinh_Tim>
+    <Is_Gop_Menh_Tinh_Cam>false</Is_Gop_Menh_Tinh_Cam>
+    <Level_Gioi_Han_Gop_Menh_Tinh>10</Level_Gioi_Han_Gop_Menh_Tinh>
+    <Is_Gop_Menh_Tinh_Vao_Tuong>0</Is_Gop_Menh_Tinh_Vao_Tuong>
+    <Is_Khong_Ban_Hay_Giu_Menh_Tinh>false</Is_Khong_Ban_Hay_Giu_Menh_Tinh>
+    <Is_Luon_Luon_Gop_Menh_Tinh_Trong_Danh_Sach>false</Is_Luon_Luon_Gop_Menh_Tinh_Trong_Danh_Sach>
+    <Danh_Sach_Menh_Tinh_Luon_Luon_Gop />
+    <Is_San_Menh_Tinh_Nhanh>false</Is_San_Menh_Tinh_Nhanh>
+    <Danh_Sach_Menh_Tinh_Can_Giu_Ban />
+  </tbl_Menh_Tinh>
+  <tbl_Tinh_Hon>
+    <Is_Auto_Tinh_Hon>false</Is_Auto_Tinh_Hon>
+    <Level_Gioi_Han_Tinh_Hon>5</Level_Gioi_Han_Tinh_Hon>
+    <Is_Gop_Mau_Trang>false</Is_Gop_Mau_Trang>
+    <Is_Gop_Mau_Xanh_Duong>false</Is_Gop_Mau_Xanh_Duong>
+    <Is_Gop_Mau_Xanh_Dam>false</Is_Gop_Mau_Xanh_Dam>
+    <Is_Gop_Mau_Vang>false</Is_Gop_Mau_Vang>
+    <Is_Gop_Mau_Do>false</Is_Gop_Mau_Do>
+    <Is_Gop_Mau_Tim>false</Is_Gop_Mau_Tim>
+    <Is_Gop_Mau_Cam>false</Is_Gop_Mau_Cam>
+  </tbl_Tinh_Hon>
+  <tbl_Chien_Dich>
+    <Is_Auto_Chien_Dich>false</Is_Auto_Chien_Dich>
+    <Is_Tu_Lap_To_Doi>false</Is_Tu_Lap_To_Doi>
+    <Loai_Hinh_Lap_To_Doi>1</Loai_Hinh_Lap_To_Doi>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Ban_Do_Chien_Dich_ID />
+    <To_Doi_Chi_Dinh />
+    <Loai_Hinh_Mo_TBD>1</Loai_Hinh_Mo_TBD>
+  </tbl_Chien_Dich>
+  <tbl_Auto_Dao_Hoa_Coc>
+    <Is_Auto_Dao_Hoa_Coc>false</Is_Auto_Dao_Hoa_Coc>
+    <Is_Danh_Tai_Chinh_Dai_Than>false</Is_Danh_Tai_Chinh_Dai_Than>
+    <Is_Danh_Quan_Nhu_Quan>false</Is_Danh_Quan_Nhu_Quan>
+    <Is_Danh_Van_Luong_Quan>false</Is_Danh_Van_Luong_Quan>
+    <So_Luot_Toi_Thieu>10</So_Luot_Toi_Thieu>
+  </tbl_Auto_Dao_Hoa_Coc>
+  <tbl_Bao_Thach>
+    <Is_Auto_Bao_Thach>false</Is_Auto_Bao_Thach>
+    <Is_Tu_Gop_Bao_Thach>false</Is_Tu_Gop_Bao_Thach>
+    <Gioi_Han_Level_Gop>0</Gioi_Han_Level_Gop>
+    <Is_Tu_Mo_O_Bao_Thach>false</Is_Tu_Mo_O_Bao_Thach>
+    <So_Xu_Toi_Thieu>0</So_Xu_Toi_Thieu>
+    <Is_Tu_Gan_Bao_Thach>false</Is_Tu_Gan_Bao_Thach>
+    <Level_Bao_Thach_Gan>0</Level_Bao_Thach_Gan>
+  </tbl_Bao_Thach>
+</DSAuto_Info>

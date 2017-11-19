@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<DSGlobal_Config xmlns="http://tempuri.org/DSGlobal_Config.xsd">
+  <tbl_Config>
+    <Is_Khong_An_Khi_Minimize>false</Is_Khong_An_Khi_Minimize>
+    <Is_Xoa_File_Cau_Hinh>false</Is_Xoa_File_Cau_Hinh>
+    <Is_Tu_Chay_Khi_Khoi_Dong_May>false</Is_Tu_Chay_Khi_Khoi_Dong_May>
+  </tbl_Config>
+</DSGlobal_Config>

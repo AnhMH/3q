@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<DSAccount xmlns="http://tempuri.org/DSAccount.xsd">
+  <tblAccount>
+    <Username>mhanhqb1</Username>
+    <Password>&#x12;¡Þ	+°¢7&#x14;ôÆÃv</Password>
+    <Server_ID>26</Server_ID>
+    <Ma_So_Ket_Noi>1234</Ma_So_Ket_Noi>
+    <Phuong_Thuc_Ket_Noi>1</Phuong_Thuc_Ket_Noi>
+    <Group_ID />
+    <Delay>1</Delay>
+  </tblAccount>
+  <tblAccount>
+    <Username>azvideous</Username>
+    <Password>&#x12;¡Þ	+°¢7&#x14;ôÆÃv</Password>
+    <Server_ID>26</Server_ID>
+    <Ma_So_Ket_Noi>123456</Ma_So_Ket_Noi>
+    <Phuong_Thuc_Ket_Noi>1</Phuong_Thuc_Ket_Noi>
+    <Group_ID />
+    <Delay>1</Delay>
+  </tblAccount>
+  <tblAccount>
+    <Username>vetk0n24</Username>
+    <Password>"=£_Dnf</Password>
+    <Server_ID>26</Server_ID>
+    <Ma_So_Ket_Noi>123456</Ma_So_Ket_Noi>
+    <Phuong_Thuc_Ket_Noi>1</Phuong_Thuc_Ket_Noi>
+    <Group_ID />
+    <Delay>1</Delay>
+  </tblAccount>
+</DSAccount>
