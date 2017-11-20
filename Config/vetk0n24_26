@@ -66,9 +66,9 @@
     <Is_Auto_Van_Tieu>False</Is_Auto_Van_Tieu>
   </tbl_Auto_Khac>
   <tbl_Quan_Doi>
-    <Is_Auto_Dao_Tao_Linh>false</Is_Auto_Dao_Tao_Linh>
-    <So_Luong_Linh_Toi_Da>0</So_Luong_Linh_Toi_Da>
-    <Is_Tuyen_Linh>False</Is_Tuyen_Linh>
+    <Is_Auto_Dao_Tao_Linh>true</Is_Auto_Dao_Tao_Linh>
+    <So_Luong_Linh_Toi_Da>7000</So_Luong_Linh_Toi_Da>
+    <Is_Tuyen_Linh>True</Is_Tuyen_Linh>
   </tbl_Quan_Doi>
   <tbl_Chien_Tich>
     <Is_Auto_Chien_Tich>false</Is_Auto_Chien_Tich>
