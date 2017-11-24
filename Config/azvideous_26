@@ -208,7 +208,47 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>10</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>16</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>15</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>20</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>14</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>13</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>19</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
     <ID_Cong_Trinh>6</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>17</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>18</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>9</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -296,6 +336,10 @@
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
     <ID_Ky_Nang>6</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>8</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
