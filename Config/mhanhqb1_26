@@ -31,7 +31,7 @@
   </tbl_Auto_Ruong_Mo>
   <tbl_Auto_Khac>
     <Is_Auto_Nhan_Bong_Loc>true</Is_Auto_Nhan_Bong_Loc>
-    <Is_Auto_Mo_Ruong>true</Is_Auto_Mo_Ruong>
+    <Is_Auto_Mo_Ruong>false</Is_Auto_Mo_Ruong>
     <Is_Auto_Bang_Hoi_Chien>true</Is_Auto_Bang_Hoi_Chien>
     <Is_Auto_Ngan_Khoang_Chien>true</Is_Auto_Ngan_Khoang_Chien>
     <Is_Dong_Loat_Tan_Cong>false</Is_Dong_Loat_Tan_Cong>
@@ -49,7 +49,7 @@
     <TTC_Loai_Co_Vu>0</TTC_Loai_Co_Vu>
     <TTC_Is_Pha_Bang>false</TTC_Is_Pha_Bang>
     <TTC_Top_Pha_Bang>10</TTC_Top_Pha_Bang>
-    <Is_Auto_Nhan_Thuong_Su_Kien>false</Is_Auto_Nhan_Thuong_Su_Kien>
+    <Is_Auto_Nhan_Thuong_Su_Kien>true</Is_Auto_Nhan_Thuong_Su_Kien>
     <Is_Auto_Cong_Thanh_Chien>true</Is_Auto_Cong_Thanh_Chien>
     <Is_Auto_Thu_Lua_Nong_Truong>true</Is_Auto_Thu_Lua_Nong_Truong>
     <Is_Log_Message>false</Is_Log_Message>
@@ -124,7 +124,7 @@
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Manh_Tien>
     <ID_Tuong_Quan>539</ID_Tuong_Quan>
-    <Manh_Tien_Limit>51</Manh_Tien_Limit>
+    <Manh_Tien_Limit>72</Manh_Tien_Limit>
   </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>1</ID_Huan_Luyen_Su>
@@ -139,6 +139,9 @@
     <ID_Huan_Luyen_Su>8</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
   <tbl_Danh_Sach_Huan_Luyen_Su>
+    <ID_Huan_Luyen_Su>12</ID_Huan_Luyen_Su>
+  </tbl_Danh_Sach_Huan_Luyen_Su>
+  <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>13</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
   <tbl_Danh_Sach_Huan_Luyen_Su>
@@ -149,14 +152,14 @@
     <Ma_Luc_Nang_Trang_Bi>0</Ma_Luc_Nang_Trang_Bi>
     <Is_Ban_Trang_Bi>false</Is_Ban_Trang_Bi>
     <Loai_Trang_Bi_Ban>0000000</Loai_Trang_Bi_Ban>
-    <Bac_Toi_Thieu>150000</Bac_Toi_Thieu>
+    <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
   </tbl_Trang_Bi>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>6984</ID_Trang_Bi>
+    <ID_Trang_Bi>25184</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>90</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
@@ -164,7 +167,7 @@
     <Level_Ep_Cap_Toan_Bo>0</Level_Ep_Cap_Toan_Bo>
   </tbl_Cong_Trinh>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>1</ID_Cong_Trinh>
+    <ID_Cong_Trinh>23</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
@@ -230,6 +233,34 @@
     <ID_Ky_Nang>2</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>4</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>6</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>7</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>8</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>13</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>14</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>22</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Linh_Thu>
     <Is_Auto_Linh_Thu>false</Is_Auto_Linh_Thu>
     <Is_Auto_Nang_Linh_Thu>false</Is_Auto_Nang_Linh_Thu>
@@ -249,13 +280,13 @@
     <Is_Ban_Linh_Thu_Cam>false</Is_Ban_Linh_Thu_Cam>
   </tbl_Linh_Thu>
   <tbl_Uy_Phai>
-    <Is_Auto_Uy_Phai>true</Is_Auto_Uy_Phai>
+    <Is_Auto_Uy_Phai>false</Is_Auto_Uy_Phai>
     <Loai_Hinh_Uy_Phai>2</Loai_Hinh_Uy_Phai>
     <Is_Ban_Trang_Bi>true</Is_Ban_Trang_Bi>
     <Is_TB_Trang>true</Is_TB_Trang>
     <Is_TB_Xanh_Duong>true</Is_TB_Xanh_Duong>
     <Is_TB_Xanh_Dam>true</Is_TB_Xanh_Dam>
-    <Is_TB_Vang>false</Is_TB_Vang>
+    <Is_TB_Vang>true</Is_TB_Vang>
     <Is_TB_Do>false</Is_TB_Do>
     <Is_TB_Tim>false</Is_TB_Tim>
     <Is_Ban_Linh_Thu>false</Is_Ban_Linh_Thu>
@@ -264,7 +295,7 @@
     <Is_LT_Xanh_Dam>false</Is_LT_Xanh_Dam>
     <Is_LT_Vang>false</Is_LT_Vang>
     <Is_LT_Do>false</Is_LT_Do>
-    <Gioi_Han_Uy_Phai>1</Gioi_Han_Uy_Phai>
+    <Gioi_Han_Uy_Phai>3</Gioi_Han_Uy_Phai>
     <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
     <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
     <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
@@ -280,9 +311,9 @@
     <Is_Uu_Tien_Goi_Thuong_Minh>false</Is_Uu_Tien_Goi_Thuong_Minh>
   </tbl_Thuong_Doi>
   <tbl_Uy_Danh>
-    <Is_Auto_uy_Danh>false</Is_Auto_uy_Danh>
+    <Is_Auto_uy_Danh>true</Is_Auto_uy_Danh>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
-    <Is_Dau_Tu>false</Is_Dau_Tu>
+    <Is_Dau_Tu>true</Is_Dau_Tu>
     <Loai_Hinh_Dau_Tu>3</Loai_Hinh_Dau_Tu>
     <Is_Dau_Tu_X2>false</Is_Dau_Tu_X2>
     <Loai_Hinh_Dau_Tu_X2>2</Loai_Hinh_Dau_Tu_X2>
@@ -345,17 +376,14 @@
     <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>1</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
   </tbl_Truy_Na>
   <tbl_Mua_Ruong>
-    <Is_Auto_Mua_Ruong>false</Is_Auto_Mua_Ruong>
-    <Is_Mua_Thiet_Ruong>false</Is_Mua_Thiet_Ruong>
-    <Is_Mua_Dong_Ruong>false</Is_Mua_Dong_Ruong>
-    <Gia_Tri_Thiet_Ruong>0</Gia_Tri_Thiet_Ruong>
-    <Gia_Tri_Dong_Ruong>0</Gia_Tri_Dong_Ruong>
+    <Is_Auto_Mua_Ruong>true</Is_Auto_Mua_Ruong>
+    <Is_Mua_Thiet_Ruong>true</Is_Mua_Thiet_Ruong>
+    <Is_Mua_Dong_Ruong>true</Is_Mua_Dong_Ruong>
+    <Gia_Tri_Thiet_Ruong>5000</Gia_Tri_Thiet_Ruong>
+    <Gia_Tri_Dong_Ruong>5000</Gia_Tri_Dong_Ruong>
   </tbl_Mua_Ruong>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>quanvũ</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>thắngbéo</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>june</Ten_Tuong_Quan>
@@ -368,6 +396,9 @@
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>khoatr</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>nhisinhtam</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
@@ -468,16 +499,12 @@
     <So_Lan_Thua>0</So_Lan_Thua>
   </tbl_Lich_Su_Truy_Na>
   <tbl_Lich_Su_Truy_Na>
-    <Ten_Tuong_Quan>Tipu</Ten_Tuong_Quan>
-    <So_Lan_Thua>0</So_Lan_Thua>
-  </tbl_Lich_Su_Truy_Na>
-  <tbl_Lich_Su_Truy_Na>
     <Ten_Tuong_Quan>NhiSinhTam</Ten_Tuong_Quan>
     <So_Lan_Thua>0</So_Lan_Thua>
   </tbl_Lich_Su_Truy_Na>
   <tbl_Khoan_Dau>
-    <Is_Auto_Khoan_Dau>false</Is_Auto_Khoan_Dau>
-    <Is_Mua_Mui_Khoan_Vang>false</Is_Mua_Mui_Khoan_Vang>
+    <Is_Auto_Khoan_Dau>true</Is_Auto_Khoan_Dau>
+    <Is_Mua_Mui_Khoan_Vang>true</Is_Mua_Mui_Khoan_Vang>
     <Is_Mua_Mui_Khoan_Bac>false</Is_Mua_Mui_Khoan_Bac>
     <Is_Luon_Mua_Mui_Khoan>false</Is_Luon_Mua_Mui_Khoan>
   </tbl_Khoan_Dau>

@@ -339,10 +339,6 @@
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>8</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
     <ID_Ky_Nang>11</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
@@ -370,12 +366,12 @@
   </tbl_Linh_Thu>
   <tbl_Uy_Phai>
     <Is_Auto_Uy_Phai>true</Is_Auto_Uy_Phai>
-    <Loai_Hinh_Uy_Phai>2</Loai_Hinh_Uy_Phai>
+    <Loai_Hinh_Uy_Phai>1</Loai_Hinh_Uy_Phai>
     <Is_Ban_Trang_Bi>true</Is_Ban_Trang_Bi>
     <Is_TB_Trang>true</Is_TB_Trang>
     <Is_TB_Xanh_Duong>true</Is_TB_Xanh_Duong>
     <Is_TB_Xanh_Dam>true</Is_TB_Xanh_Dam>
-    <Is_TB_Vang>false</Is_TB_Vang>
+    <Is_TB_Vang>true</Is_TB_Vang>
     <Is_TB_Do>false</Is_TB_Do>
     <Is_TB_Tim>false</Is_TB_Tim>
     <Is_Ban_Linh_Thu>false</Is_Ban_Linh_Thu>
@@ -384,7 +380,7 @@
     <Is_LT_Xanh_Dam>false</Is_LT_Xanh_Dam>
     <Is_LT_Vang>false</Is_LT_Vang>
     <Is_LT_Do>false</Is_LT_Do>
-    <Gioi_Han_Uy_Phai>1</Gioi_Han_Uy_Phai>
+    <Gioi_Han_Uy_Phai>3</Gioi_Han_Uy_Phai>
     <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
     <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
     <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
