@@ -18,13 +18,4 @@
     <Group_ID />
     <Delay>1</Delay>
   </tblAccount>
-  <tblAccount>
-    <Username>vetk0n24</Username>
-    <Password>"=£_Dnf</Password>
-    <Server_ID>26</Server_ID>
-    <Ma_So_Ket_Noi>123456</Ma_So_Ket_Noi>
-    <Phuong_Thuc_Ket_Noi>1</Phuong_Thuc_Ket_Noi>
-    <Group_ID />
-    <Delay>1</Delay>
-  </tblAccount>
 </DSAccount>
