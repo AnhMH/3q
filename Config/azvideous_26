@@ -37,10 +37,10 @@
     <Is_Dong_Loat_Tan_Cong>false</Is_Dong_Loat_Tan_Cong>
     <So_Bac_Toi_Thieu>0</So_Bac_Toi_Thieu>
     <Is_Auto_Than_Thu_Chien>true</Is_Auto_Than_Thu_Chien>
-    <Is_TTC_Bach_Ho>true</Is_TTC_Bach_Ho>
+    <Is_TTC_Bach_Ho>false</Is_TTC_Bach_Ho>
     <Is_TTC_Huyen_Vu>true</Is_TTC_Huyen_Vu>
-    <Is_TTC_Chu_Tuoc>true</Is_TTC_Chu_Tuoc>
-    <Is_TTC_Thanh_Long>true</Is_TTC_Thanh_Long>
+    <Is_TTC_Chu_Tuoc>false</Is_TTC_Chu_Tuoc>
+    <Is_TTC_Thanh_Long>false</Is_TTC_Thanh_Long>
     <TTC_Is_Chuyen_Tran_Khi_Danh>false</TTC_Is_Chuyen_Tran_Khi_Danh>
     <TTC_Tran_1>9</TTC_Tran_1>
     <TTC_Tran_2>16</TTC_Tran_2>
@@ -60,7 +60,7 @@
     <Is_Auto_Tu_Dong_Quay_So>true</Is_Auto_Tu_Dong_Quay_So>
     <Is_Auto_Diem_Tuong_Dai>true</Is_Auto_Diem_Tuong_Dai>
     <Is_Auto_Tram_Tuong>false</Is_Auto_Tram_Tuong>
-    <Is_TTC_Tu_Nguu>true</Is_TTC_Tu_Nguu>
+    <Is_TTC_Tu_Nguu>false</Is_TTC_Tu_Nguu>
     <Is_TLD>false</Is_TLD>
     <ID_TLD />
     <Is_Auto_Van_Tieu>True</Is_Auto_Van_Tieu>
@@ -177,7 +177,7 @@
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
     <Bac_Nang_Cong_Trinh>0</Bac_Nang_Cong_Trinh>
-    <Level_Ep_Cap_Toan_Bo>76</Level_Ep_Cap_Toan_Bo>
+    <Level_Ep_Cap_Toan_Bo>0</Level_Ep_Cap_Toan_Bo>
   </tbl_Cong_Trinh>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
     <ID_Cong_Trinh>6</ID_Cong_Trinh>
@@ -453,6 +453,24 @@
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>trieuvaan</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>tùngđạika</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>nevermore</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>ngôcùi</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>điêuthuyền</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>kẻđirong</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>chacharumba</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Nen>false</Is_Mo_Nen>
@@ -589,6 +607,26 @@
   </tbl_Lich_Su_Truy_Na>
   <tbl_Lich_Su_Truy_Na>
     <Ten_Tuong_Quan>TrieuVaan</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Nevermore</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Ngô cùi</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Điêu Thuyền</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>kẻ đi rong</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>chacharumba</Ten_Tuong_Quan>
     <So_Lan_Thua>0</So_Lan_Thua>
   </tbl_Lich_Su_Truy_Na>
   <tbl_Khoan_Dau>
