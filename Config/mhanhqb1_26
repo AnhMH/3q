@@ -34,7 +34,7 @@
     <Is_Auto_Mo_Ruong>false</Is_Auto_Mo_Ruong>
     <Is_Auto_Bang_Hoi_Chien>true</Is_Auto_Bang_Hoi_Chien>
     <Is_Auto_Ngan_Khoang_Chien>true</Is_Auto_Ngan_Khoang_Chien>
-    <Is_Dong_Loat_Tan_Cong>true</Is_Dong_Loat_Tan_Cong>
+    <Is_Dong_Loat_Tan_Cong>false</Is_Dong_Loat_Tan_Cong>
     <So_Bac_Toi_Thieu>0</So_Bac_Toi_Thieu>
     <Is_Auto_Than_Thu_Chien>true</Is_Auto_Than_Thu_Chien>
     <Is_TTC_Bach_Ho>false</Is_TTC_Bach_Ho>
