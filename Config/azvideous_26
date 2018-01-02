@@ -26,8 +26,8 @@
     <RM_1 />
     <RM_2 />
     <Is_Khong_An_Mua_Dong>False</Is_Khong_An_Mua_Dong>
-    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
-    <Is_Chiem_Toi_Da_So_Ruong>True</Is_Chiem_Toi_Da_So_Ruong>
+    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
+    <Is_Chiem_Toi_Da_So_Ruong>False</Is_Chiem_Toi_Da_So_Ruong>
   </tbl_Auto_Ruong_Mo>
   <tbl_Auto_Khac>
     <Is_Auto_Nhan_Bong_Loc>true</Is_Auto_Nhan_Bong_Loc>
@@ -97,15 +97,6 @@
     <Phut_Chi_Dinh_Tiep_Theo>0</Phut_Chi_Dinh_Tiep_Theo>
     <Giay_Chi_Dinh_Tiep_Theo>0</Giay_Chi_Dinh_Tiep_Theo>
   </tbl_Chien_Tich>
-  <tbl_Chi_Tiet_Chien_Tich>
-    <ID_Ban_Do>46</ID_Ban_Do>
-    <Ten_Ban_Do>Bản đồ kho báu &lt; 100</Ten_Ban_Do>
-    <ID_Quan_Doi>5705</ID_Quan_Doi>
-    <Ten_Quan_Doi>Hí Chí Tài - Level 84(Ngũ Long Khải ( mảnh )|5) (exp:82)</Ten_Quan_Doi>
-    <Loai_Hinh_Quan_Doi>2</Loai_Hinh_Quan_Doi>
-    <Gioi_Han_Level>0</Gioi_Han_Level>
-    <So_Nguoi_Chay>0</So_Nguoi_Chay>
-  </tbl_Chi_Tiet_Chien_Tich>
   <tbl_Tuong_Quan>
     <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
@@ -119,9 +110,6 @@
     <Xu_Cai_Tien>6</Xu_Cai_Tien>
     <Is_Chi_Cai_Tien_Cac_Tuong_Max_Level>false</Is_Chi_Cai_Tien_Cac_Tuong_Max_Level>
   </tbl_Tuong_Quan>
-  <tbl_Danh_Sach_Luyen_Tuong>
-    <ID_Tuong_Quan>2142</ID_Tuong_Quan>
-  </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Luyen_Tuong>
     <ID_Tuong_Quan>2188</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
@@ -164,23 +152,23 @@
     <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
   </tbl_Trang_Bi>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>25426</ID_Trang_Bi>
+    <ID_Trang_Bi>80040</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>77</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
     <Bac_Nang_Cong_Trinh>0</Bac_Nang_Cong_Trinh>
-    <Level_Ep_Cap_Toan_Bo>0</Level_Ep_Cap_Toan_Bo>
+    <Level_Ep_Cap_Toan_Bo>100</Level_Ep_Cap_Toan_Bo>
   </tbl_Cong_Trinh>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>24</ID_Cong_Trinh>
+    <ID_Cong_Trinh>23</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>6</ID_Cong_Trinh>
+    <ID_Cong_Trinh>3</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -243,6 +231,14 @@
     <Chien_Tich_Nang_Ky_Nang>0</Chien_Tich_Nang_Ky_Nang>
   </tbl_Ky_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>1</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>2</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
     <ID_Ky_Nang>4</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
@@ -251,23 +247,19 @@
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>6</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
     <ID_Ky_Nang>8</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>9</ID_Ky_Nang>
+    <ID_Ky_Nang>17</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>11</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>12</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>13</ID_Ky_Nang>
+    <ID_Ky_Nang>22</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Linh_Thu>
@@ -306,7 +298,7 @@
     <Is_LT_Do>false</Is_LT_Do>
     <Gioi_Han_Uy_Phai>4</Gioi_Han_Uy_Phai>
     <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
-    <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
     <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
   </tbl_Uy_Phai>
   <tbl_Thuong_Doi>
@@ -480,6 +472,21 @@
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>darkunicorn</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>kaya</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>thíchsờ</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>๖ۣۜｐｈｉêｕｂạｔ</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>ngoạ.long</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>thíchgái</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
@@ -661,6 +668,26 @@
   </tbl_Lich_Su_Truy_Na>
   <tbl_Lich_Su_Truy_Na>
     <Ten_Tuong_Quan>darkunicorn</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Kaya</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Thích Sờ</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>๖ۣۜｐｈｉêｕ ｂạｔ</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Ngoạ.Long</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Thích Gái</Ten_Tuong_Quan>
     <So_Lan_Thua>0</So_Lan_Thua>
   </tbl_Lich_Su_Truy_Na>
   <tbl_Khoan_Dau>
