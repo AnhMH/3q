@@ -404,7 +404,7 @@
     <Is_Tu_Mua_Banh_Ngot>false</Is_Tu_Mua_Banh_Ngot>
   </tbl_Event31_05>
   <tbl_Bang_Hoi>
-    <Is_Auto_Dong_Gop_Bang_Hoi>true</Is_Auto_Dong_Gop_Bang_Hoi>
+    <Is_Auto_Dong_Gop_Bang_Hoi>false</Is_Auto_Dong_Gop_Bang_Hoi>
     <Ky_Nang_Dong_Gop>1</Ky_Nang_Dong_Gop>
   </tbl_Bang_Hoi>
   <tbl_Thuong_Doi_Uu_Tien_Goi>
