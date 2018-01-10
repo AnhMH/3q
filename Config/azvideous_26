@@ -355,7 +355,7 @@
   <tbl_Linh_Thu>
     <Is_Auto_Linh_Thu>true</Is_Auto_Linh_Thu>
     <Is_Auto_Nang_Linh_Thu>true</Is_Auto_Nang_Linh_Thu>
-    <Ma_Luc_Nang_Linh_Thu>90</Ma_Luc_Nang_Linh_Thu>
+    <Ma_Luc_Nang_Linh_Thu>77</Ma_Luc_Nang_Linh_Thu>
     <Is_Auto_Ha_Linh_Thu>true</Is_Auto_Ha_Linh_Thu>
     <Is_Auto_Ban_Linh_Thu>true</Is_Auto_Ban_Linh_Thu>
     <Is_Ban_Linh_Thu_Trang>true</Is_Ban_Linh_Thu_Trang>
@@ -370,6 +370,18 @@
     <Is_Pha_Bang_Nang_Cap>false</Is_Pha_Bang_Nang_Cap>
     <Is_Ban_Linh_Thu_Cam>false</Is_Ban_Linh_Thu_Cam>
   </tbl_Linh_Thu>
+  <tbl_Danh_Sach_Linh_Thu_Can_Nang>
+    <ID_Linh_Thu>3246</ID_Linh_Thu>
+  </tbl_Danh_Sach_Linh_Thu_Can_Nang>
+  <tbl_Danh_Sach_Linh_Thu_Can_Nang>
+    <ID_Linh_Thu>3251</ID_Linh_Thu>
+  </tbl_Danh_Sach_Linh_Thu_Can_Nang>
+  <tbl_Danh_Sach_Linh_Thu_Can_Nang>
+    <ID_Linh_Thu>3330</ID_Linh_Thu>
+  </tbl_Danh_Sach_Linh_Thu_Can_Nang>
+  <tbl_Danh_Sach_Linh_Thu_Can_Nang>
+    <ID_Linh_Thu>4869</ID_Linh_Thu>
+  </tbl_Danh_Sach_Linh_Thu_Can_Nang>
   <tbl_Uy_Phai>
     <Is_Auto_Uy_Phai>true</Is_Auto_Uy_Phai>
     <Loai_Hinh_Uy_Phai>1</Loai_Hinh_Uy_Phai>
