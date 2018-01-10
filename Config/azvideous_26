@@ -445,7 +445,7 @@
     <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
     <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
-    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>true</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
     <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
     <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
@@ -501,19 +501,7 @@
     <Ten_Tuong_Quan>quanvux</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>camninh</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>nhisinhtam</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>mrtq</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>steven</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>bmt_daklak</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>trieuvaan</Ten_Tuong_Quan>
@@ -562,9 +550,6 @@
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>๖ۣۜｐｈｉêｕｂạｔ</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>ngoạ.long</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>thíchgái</Ten_Tuong_Quan>
@@ -904,10 +889,10 @@
     <Is_Gop_Mau_Cam>false</Is_Gop_Mau_Cam>
   </tbl_Tinh_Hon>
   <tbl_Chien_Dich>
-    <Is_Auto_Chien_Dich>true</Is_Auto_Chien_Dich>
+    <Is_Auto_Chien_Dich>false</Is_Auto_Chien_Dich>
     <Is_Tu_Lap_To_Doi>true</Is_Tu_Lap_To_Doi>
     <Loai_Hinh_Lap_To_Doi>1</Loai_Hinh_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>10</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>3</So_Luot_Toi_Thieu>
     <Ban_Do_Chien_Dich_ID>1</Ban_Do_Chien_Dich_ID>
     <To_Doi_Chi_Dinh />
     <Loai_Hinh_Mo_TBD>1</Loai_Hinh_Mo_TBD>
