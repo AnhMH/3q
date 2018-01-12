@@ -15,8 +15,8 @@
     <RM_1>2</RM_1>
     <RM_2>2</RM_2>
     <Is_Khong_An_Mua_Dong>False</Is_Khong_An_Mua_Dong>
-    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
-    <Is_Chiem_Toi_Da_So_Ruong>False</Is_Chiem_Toi_Da_So_Ruong>
+    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
+    <Is_Chiem_Toi_Da_So_Ruong>True</Is_Chiem_Toi_Da_So_Ruong>
     <Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>true</Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
     <So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>0</So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
   </tbl_Auto_Ruong_Mo>
@@ -73,7 +73,7 @@
   <tbl_Chien_Tich>
     <Is_Auto_Chien_Tich>true</Is_Auto_Chien_Tich>
     <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>25</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>10</So_Luot_Toi_Thieu>
     <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
     <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
     <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>
@@ -371,7 +371,7 @@
     <Is_Truy_Na_Thuc>0</Is_Truy_Na_Thuc>
     <Is_Truy_Na_Nguy>0</Is_Truy_Na_Nguy>
     <Is_Tu_Hoc_Truy_Na>true</Is_Tu_Hoc_Truy_Na>
-    <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>1</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
+    <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>2</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
   </tbl_Truy_Na>
   <tbl_Mua_Ruong>
     <Is_Auto_Mua_Ruong>true</Is_Auto_Mua_Ruong>
