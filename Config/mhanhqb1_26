@@ -71,9 +71,9 @@
     <Is_Tuyen_Linh>True</Is_Tuyen_Linh>
   </tbl_Quan_Doi>
   <tbl_Chien_Tich>
-    <Is_Auto_Chien_Tich>true</Is_Auto_Chien_Tich>
+    <Is_Auto_Chien_Tich>false</Is_Auto_Chien_Tich>
     <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>25</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
     <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
     <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>
@@ -97,6 +97,15 @@
     <Phut_Chi_Dinh_Tiep_Theo>0</Phut_Chi_Dinh_Tiep_Theo>
     <Giay_Chi_Dinh_Tiep_Theo>0</Giay_Chi_Dinh_Tiep_Theo>
   </tbl_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>25</ID_Ban_Do>
+    <Ten_Ban_Do>Tam quốc quần anh</Ten_Ban_Do>
+    <ID_Quan_Doi>900024</ID_Quan_Doi>
+    <Ten_Quan_Doi>Tam Quốc Quần Anh Quân đoàn - Level 136(Thiên Chiếu Thư （tỉ lệ thấp）TímDung Nham Hỏa Phượng （Tỉ lệ thấp）Tím) (exp:8159)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
   <tbl_Tuong_Quan>
     <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
@@ -188,19 +197,19 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>1</ID_Cong_Trinh>
+    <ID_Cong_Trinh>15</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>25</ID_Cong_Trinh>
+    <ID_Cong_Trinh>14</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>23</ID_Cong_Trinh>
+    <ID_Cong_Trinh>26</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>3</ID_Cong_Trinh>
+    <ID_Cong_Trinh>5</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
@@ -372,7 +381,7 @@
     <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
     <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
-    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>true</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
     <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
     <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
