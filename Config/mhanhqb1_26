@@ -209,7 +209,7 @@
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
     <Is_Auto_Det>true</Is_Auto_Det>
-    <Gia_Det>130</Gia_Det>
+    <Gia_Det>120</Gia_Det>
     <Loai_Hinh_Tham_Gia_Det>1</Loai_Hinh_Tham_Gia_Det>
     <Slot_1>Tonyyyyyyyyy</Slot_1>
     <Slot_2 />
@@ -409,9 +409,6 @@
     <Gia_Tri_Thiet_Ruong>5000</Gia_Tri_Thiet_Ruong>
     <Gia_Tri_Dong_Ruong>5100</Gia_Tri_Dong_Ruong>
   </tbl_Mua_Ruong>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>thần^_^men</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Nen>false</Is_Mo_Nen>
