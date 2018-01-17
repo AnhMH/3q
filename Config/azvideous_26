@@ -109,7 +109,7 @@
   <tbl_Tuong_Quan>
     <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
-    <Is_Auto_Manh_Tien>true</Is_Auto_Manh_Tien>
+    <Is_Auto_Manh_Tien>false</Is_Auto_Manh_Tien>
     <Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>true</Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>
     <Chien_Tich_Manh_Tien>800000</Chien_Tich_Manh_Tien>
     <Loai_Khoi_Tao_Huan_Luyen_Su>1</Loai_Khoi_Tao_Huan_Luyen_Su>
