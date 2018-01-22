@@ -15,8 +15,8 @@
     <RM_1>2</RM_1>
     <RM_2>2</RM_2>
     <Is_Khong_An_Mua_Dong>False</Is_Khong_An_Mua_Dong>
-    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
-    <Is_Chiem_Toi_Da_So_Ruong>True</Is_Chiem_Toi_Da_So_Ruong>
+    <Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Chiem_Khi_Co_Luot_Mien_Phi>
+    <Is_Chiem_Toi_Da_So_Ruong>False</Is_Chiem_Toi_Da_So_Ruong>
     <Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>true</Is_Chi_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
     <So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>0</So_Phut_Chiem_Ruong_Mo_Sau_Gio_Reset_Tinh_Anh>
   </tbl_Auto_Ruong_Mo>
@@ -135,7 +135,7 @@
     <ID_Tuong_Quan>2677</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Manh_Tien>
-    <ID_Tuong_Quan>1463</ID_Tuong_Quan>
+    <ID_Tuong_Quan>1572</ID_Tuong_Quan>
     <Manh_Tien_Limit>0</Manh_Tien_Limit>
   </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
@@ -152,18 +152,6 @@
   </tbl_Danh_Sach_Huan_Luyen_Su>
   <tbl_Danh_Sach_Chuyen_Sinh>
     <ID_Tuong_Quan>578</ID_Tuong_Quan>
-    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
-  </tbl_Danh_Sach_Chuyen_Sinh>
-  <tbl_Danh_Sach_Chuyen_Sinh>
-    <ID_Tuong_Quan>1463</ID_Tuong_Quan>
-    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
-  </tbl_Danh_Sach_Chuyen_Sinh>
-  <tbl_Danh_Sach_Chuyen_Sinh>
-    <ID_Tuong_Quan>1572</ID_Tuong_Quan>
-    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
-  </tbl_Danh_Sach_Chuyen_Sinh>
-  <tbl_Danh_Sach_Chuyen_Sinh>
-    <ID_Tuong_Quan>2338</ID_Tuong_Quan>
     <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Danh_Sach_Chuyen_Sinh>
@@ -284,7 +272,7 @@
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
     <Is_Auto_Det>true</Is_Auto_Det>
-    <Gia_Det>140</Gia_Det>
+    <Gia_Det>135</Gia_Det>
     <Loai_Hinh_Tham_Gia_Det>1</Loai_Hinh_Tham_Gia_Det>
     <Slot_1>Tonyyyyyyyyy</Slot_1>
     <Slot_2 />
@@ -338,11 +326,15 @@
     <Chien_Tich_Nang_Ky_Nang>0</Chien_Tich_Nang_Ky_Nang>
   </tbl_Ky_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>4</ID_Ky_Nang>
+    <ID_Ky_Nang>1</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>7</ID_Ky_Nang>
+    <ID_Ky_Nang>2</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>4</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
