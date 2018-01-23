@@ -3,10 +3,10 @@
   <tbl_Auto_ThuThue>
     <Auto_Thu_Thue>true</Auto_Thu_Thue>
     <Uu_Tien_Cau_Hoi>Xu</Uu_Tien_Cau_Hoi>
-    <Is_Tang_Cuong_Thu_Thue>true</Is_Tang_Cuong_Thu_Thue>
+    <Is_Tang_Cuong_Thu_Thue>false</Is_Tang_Cuong_Thu_Thue>
     <So_Xu_Tang_Cuong>30</So_Xu_Tang_Cuong>
     <Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>false</Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>
-    <So_Luot_Tich_Luy_Thu_Thue>0</So_Luot_Tich_Luy_Thu_Thue>
+    <So_Luot_Tich_Luy_Thu_Thue>37</So_Luot_Tich_Luy_Thu_Thue>
     <Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>false</Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>
   </tbl_Auto_ThuThue>
   <tbl_Auto_Ruong_Mo>
@@ -73,7 +73,7 @@
   <tbl_Chien_Tich>
     <Is_Auto_Chien_Tich>true</Is_Auto_Chien_Tich>
     <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>29</So_Luot_Toi_Thieu>
     <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
     <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
     <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>
@@ -103,6 +103,15 @@
     <ID_Quan_Doi>900024</ID_Quan_Doi>
     <Ten_Quan_Doi>Tam Quốc Quần Anh Quân đoàn - Level 136(Thiên Chiếu Thư （tỉ lệ thấp）TímDung Nham Hỏa Phượng （Tỉ lệ thấp）Tím) (exp:8159)</Ten_Quan_Doi>
     <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>25</ID_Ban_Do>
+    <Ten_Ban_Do>Tam quốc quần anh</Ten_Ban_Do>
+    <ID_Quan_Doi>3608</ID_Quan_Doi>
+    <Ten_Quan_Doi>Sách Pháp Lưu - Level 128(Long Lân Khải(mảnh)（Tỉ lệ thấp）Tím) (exp:904)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>2</Loai_Hinh_Quan_Doi>
     <Gioi_Han_Level>0</Gioi_Han_Level>
     <So_Nguoi_Chay>0</So_Nguoi_Chay>
   </tbl_Chi_Tiet_Chien_Tich>
@@ -164,11 +173,18 @@
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Trang_Bi>
     <Is_Auto_Nang_Trang_Bi>true</Is_Auto_Nang_Trang_Bi>
-    <Ma_Luc_Nang_Trang_Bi>75</Ma_Luc_Nang_Trang_Bi>
+    <Ma_Luc_Nang_Trang_Bi>0</Ma_Luc_Nang_Trang_Bi>
     <Is_Ban_Trang_Bi>true</Is_Ban_Trang_Bi>
     <Loai_Trang_Bi_Ban>1110000</Loai_Trang_Bi_Ban>
     <Bac_Toi_Thieu>400000</Bac_Toi_Thieu>
   </tbl_Trang_Bi>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>94344</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>98</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
     <Bac_Nang_Cong_Trinh>0</Bac_Nang_Cong_Trinh>
@@ -272,7 +288,7 @@
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
     <Is_Auto_Det>true</Is_Auto_Det>
-    <Gia_Det>135</Gia_Det>
+    <Gia_Det>0</Gia_Det>
     <Loai_Hinh_Tham_Gia_Det>1</Loai_Hinh_Tham_Gia_Det>
     <Slot_1>Tonyyyyyyyyy</Slot_1>
     <Slot_2 />
@@ -319,7 +335,7 @@
     <Thoi_Gian_Cho_Det>60</Thoi_Gian_Cho_Det>
     <Is_Tu_Tuyen_Thuong_Minh>false</Is_Tu_Tuyen_Thuong_Minh>
     <Thoi_Diem_Tuyen_Thuong_Minh>2000-01-01T11:00:00+07:00</Thoi_Diem_Tuyen_Thuong_Minh>
-    <Vai_Uu_Tien>7, 9, 11, 13, 15, 17, 19</Vai_Uu_Tien>
+    <Vai_Uu_Tien>7, 9, 11, 13, 14, 17, 19</Vai_Uu_Tien>
   </tbl_Det>
   <tbl_Ky_Nang>
     <Is_Auto_Ky_Nang>true</Is_Auto_Ky_Nang>
@@ -457,7 +473,7 @@
     <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
     <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
-    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>true</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
     <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
     <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
@@ -476,9 +492,6 @@
     <Gia_Tri_Thiet_Ruong>5000</Gia_Tri_Thiet_Ruong>
     <Gia_Tri_Dong_Ruong>5100</Gia_Tri_Dong_Ruong>
   </tbl_Mua_Ruong>
-  <tbl_BlackList_Truy_Na>
-    <Ten_Tuong_Quan>thần^_^men</Ten_Tuong_Quan>
-  </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Nen>false</Is_Mo_Nen>
