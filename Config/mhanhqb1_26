@@ -118,7 +118,7 @@
   <tbl_Tuong_Quan>
     <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
-    <Is_Auto_Manh_Tien>true</Is_Auto_Manh_Tien>
+    <Is_Auto_Manh_Tien>false</Is_Auto_Manh_Tien>
     <Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>true</Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>
     <Chien_Tich_Manh_Tien>800000</Chien_Tich_Manh_Tien>
     <Loai_Khoi_Tao_Huan_Luyen_Su>1</Loai_Khoi_Tao_Huan_Luyen_Su>
@@ -144,7 +144,7 @@
     <ID_Tuong_Quan>2677</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Manh_Tien>
-    <ID_Tuong_Quan>1572</ID_Tuong_Quan>
+    <ID_Tuong_Quan>2677</ID_Tuong_Quan>
     <Manh_Tien_Limit>0</Manh_Tien_Limit>
   </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
@@ -180,6 +180,27 @@
   </tbl_Trang_Bi>
   <tbl_Trang_Bi_Nang_cap>
     <ID_Trang_Bi>94344</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>98</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>84145</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>98</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>78324</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>98</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>51568</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
@@ -288,7 +309,7 @@
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
     <Is_Auto_Det>true</Is_Auto_Det>
-    <Gia_Det>0</Gia_Det>
+    <Gia_Det>140</Gia_Det>
     <Loai_Hinh_Tham_Gia_Det>1</Loai_Hinh_Tham_Gia_Det>
     <Slot_1>Tonyyyyyyyyy</Slot_1>
     <Slot_2 />
@@ -347,10 +368,6 @@
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
     <ID_Ky_Nang>2</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>4</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
@@ -483,7 +500,7 @@
     <Is_Truy_Na_Thuc>0</Is_Truy_Na_Thuc>
     <Is_Truy_Na_Nguy>0</Is_Truy_Na_Nguy>
     <Is_Tu_Hoc_Truy_Na>true</Is_Tu_Hoc_Truy_Na>
-    <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>1</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
+    <Gioi_Han_So_Lan_Truy_Na_Bi_Thua>2</Gioi_Han_So_Lan_Truy_Na_Bi_Thua>
   </tbl_Truy_Na>
   <tbl_Mua_Ruong>
     <Is_Auto_Mua_Ruong>true</Is_Auto_Mua_Ruong>
@@ -492,6 +509,9 @@
     <Gia_Tri_Thiet_Ruong>5000</Gia_Tri_Thiet_Ruong>
     <Gia_Tri_Dong_Ruong>5100</Gia_Tri_Dong_Ruong>
   </tbl_Mua_Ruong>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>thần^_^men</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Nen>false</Is_Mo_Nen>
