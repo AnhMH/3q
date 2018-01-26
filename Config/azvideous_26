@@ -109,7 +109,7 @@
   <tbl_Tuong_Quan>
     <Is_Auto_Luyen_Tuong>true</Is_Auto_Luyen_Tuong>
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
-    <Is_Auto_Manh_Tien>false</Is_Auto_Manh_Tien>
+    <Is_Auto_Manh_Tien>true</Is_Auto_Manh_Tien>
     <Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>true</Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>
     <Chien_Tich_Manh_Tien>800000</Chien_Tich_Manh_Tien>
     <Loai_Khoi_Tao_Huan_Luyen_Su>1</Loai_Khoi_Tao_Huan_Luyen_Su>
@@ -126,10 +126,10 @@
     <ID_Tuong_Quan>5194</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Luyen_Tuong>
-    <ID_Tuong_Quan>5211</ID_Tuong_Quan>
+    <ID_Tuong_Quan>5382</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Manh_Tien>
-    <ID_Tuong_Quan>3076</ID_Tuong_Quan>
+    <ID_Tuong_Quan>5382</ID_Tuong_Quan>
     <Manh_Tien_Limit>0</Manh_Tien_Limit>
   </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
@@ -156,6 +156,10 @@
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Danh_Sach_Chuyen_Sinh>
     <ID_Tuong_Quan>5194</ID_Tuong_Quan>
+    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
+  </tbl_Danh_Sach_Chuyen_Sinh>
+  <tbl_Danh_Sach_Chuyen_Sinh>
+    <ID_Tuong_Quan>5382</ID_Tuong_Quan>
     <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Trang_Bi>
@@ -434,7 +438,7 @@
     <Is_Uu_Tien_Goi_Thuong_Minh>false</Is_Uu_Tien_Goi_Thuong_Minh>
   </tbl_Thuong_Doi>
   <tbl_Uy_Danh>
-    <Is_Auto_uy_Danh>true</Is_Auto_uy_Danh>
+    <Is_Auto_uy_Danh>false</Is_Auto_uy_Danh>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
     <Is_Dau_Tu>true</Is_Dau_Tu>
     <Loai_Hinh_Dau_Tu>3</Loai_Hinh_Dau_Tu>
@@ -486,7 +490,7 @@
     <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
     <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
-    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>true</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
     <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
     <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
@@ -972,11 +976,11 @@
     <Is_Gop_Mau_Cam>false</Is_Gop_Mau_Cam>
   </tbl_Tinh_Hon>
   <tbl_Chien_Dich>
-    <Is_Auto_Chien_Dich>false</Is_Auto_Chien_Dich>
+    <Is_Auto_Chien_Dich>true</Is_Auto_Chien_Dich>
     <Is_Tu_Lap_To_Doi>true</Is_Tu_Lap_To_Doi>
     <Loai_Hinh_Lap_To_Doi>1</Loai_Hinh_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>3</So_Luot_Toi_Thieu>
-    <Ban_Do_Chien_Dich_ID>1</Ban_Do_Chien_Dich_ID>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <Ban_Do_Chien_Dich_ID>8</Ban_Do_Chien_Dich_ID>
     <To_Doi_Chi_Dinh />
     <Loai_Hinh_Mo_TBD>1</Loai_Hinh_Mo_TBD>
   </tbl_Chien_Dich>

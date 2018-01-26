@@ -126,14 +126,20 @@
     <ID_Tuong_Quan>2677</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
   <tbl_Danh_Sach_Manh_Tien>
-    <ID_Tuong_Quan>1463</ID_Tuong_Quan>
-    <Manh_Tien_Limit>115</Manh_Tien_Limit>
+    <ID_Tuong_Quan>2677</ID_Tuong_Quan>
+    <Manh_Tien_Limit>0</Manh_Tien_Limit>
   </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>1</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>2</ID_Huan_Luyen_Su>
+  </tbl_Danh_Sach_Huan_Luyen_Su>
+  <tbl_Danh_Sach_Huan_Luyen_Su>
+    <ID_Huan_Luyen_Su>7</ID_Huan_Luyen_Su>
+  </tbl_Danh_Sach_Huan_Luyen_Su>
+  <tbl_Danh_Sach_Huan_Luyen_Su>
+    <ID_Huan_Luyen_Su>8</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>13</ID_Huan_Luyen_Su>
@@ -324,7 +330,7 @@
     <Thoi_Gian_Cho_Det>60</Thoi_Gian_Cho_Det>
     <Is_Tu_Tuyen_Thuong_Minh>false</Is_Tu_Tuyen_Thuong_Minh>
     <Thoi_Diem_Tuyen_Thuong_Minh>2000-01-01T11:00:00+07:00</Thoi_Diem_Tuyen_Thuong_Minh>
-    <Vai_Uu_Tien>7, 9, 11, 13, 14, 16, 18</Vai_Uu_Tien>
+    <Vai_Uu_Tien>7, 9, 11, 13, 14, 16, 19</Vai_Uu_Tien>
   </tbl_Det>
   <tbl_Ky_Nang>
     <Is_Auto_Ky_Nang>true</Is_Auto_Ky_Nang>
@@ -454,9 +460,9 @@
     <Is_Auto_Truy_Na>true</Is_Auto_Truy_Na>
     <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Max_Level_Truy_Na>0</Max_Level_Truy_Na>
-    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>false</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>true</Is_Chi_Truy_Na_Khi_Co_Luot_Mien_Phi>
     <Gioi_Han_Uy_Danh>0</Gioi_Han_Uy_Danh>
-    <Is_Khong_Truy_Na_Black_List>true</Is_Khong_Truy_Na_Black_List>
+    <Is_Khong_Truy_Na_Black_List>false</Is_Khong_Truy_Na_Black_List>
     <Is_Truy_Na_Level_Tu_Thap_Den_Cao>false</Is_Truy_Na_Level_Tu_Thap_Den_Cao>
     <Is_Luon_Dung_Luot_Mien_Phi>false</Is_Luon_Dung_Luot_Mien_Phi>
     <Is_Truy_Na_Theo_Quoc_Gia>0</Is_Truy_Na_Theo_Quoc_Gia>
