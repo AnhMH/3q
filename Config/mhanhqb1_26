@@ -125,6 +125,10 @@
   <tbl_Danh_Sach_Luyen_Tuong>
     <ID_Tuong_Quan>2917</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
+  <tbl_Danh_Sach_Manh_Tien>
+    <ID_Tuong_Quan>1572</ID_Tuong_Quan>
+    <Manh_Tien_Limit>0</Manh_Tien_Limit>
+  </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>1</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
@@ -145,6 +149,10 @@
     <ID_Tuong_Quan>2338</ID_Tuong_Quan>
     <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
   </tbl_Danh_Sach_Chuyen_Sinh>
+  <tbl_Danh_Sach_Chuyen_Sinh>
+    <ID_Tuong_Quan>2917</ID_Tuong_Quan>
+    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
+  </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Trang_Bi>
     <Is_Auto_Nang_Trang_Bi>true</Is_Auto_Nang_Trang_Bi>
     <Ma_Luc_Nang_Trang_Bi>0</Ma_Luc_Nang_Trang_Bi>
@@ -155,8 +163,15 @@
   <tbl_Trang_Bi_Nang_cap>
     <ID_Trang_Bi>107126</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
-    <Limit_Level_1>0</Limit_Level_1>
-    <Limit_Level_2>0</Limit_Level_2>
+    <Limit_Level_1>10</Limit_Level_1>
+    <Limit_Level_2>10</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>91</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>108420</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>10</Limit_Level_1>
+    <Limit_Level_2>10</Limit_Level_2>
     <Ma_Luc_Nang_Cap>91</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
@@ -165,51 +180,7 @@
     <Level_Ep_Cap_Toan_Bo>130</Level_Ep_Cap_Toan_Bo>
   </tbl_Cong_Trinh>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>1</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>2</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>3</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>5</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>6</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>7</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>9</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>10</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>11</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>12</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>13</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>14</ID_Cong_Trinh>
+    <ID_Cong_Trinh>16</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -217,15 +188,23 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>16</ID_Cong_Trinh>
+    <ID_Cong_Trinh>14</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>17</ID_Cong_Trinh>
+    <ID_Cong_Trinh>13</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>18</ID_Cong_Trinh>
+    <ID_Cong_Trinh>12</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>11</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>10</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -233,23 +212,15 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>20</ID_Cong_Trinh>
+    <ID_Cong_Trinh>18</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>21</ID_Cong_Trinh>
+    <ID_Cong_Trinh>17</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>22</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>23</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>24</ID_Cong_Trinh>
+    <ID_Cong_Trinh>1</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -257,7 +228,51 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>24</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
     <ID_Cong_Trinh>26</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>21</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>20</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>23</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>22</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>5</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>3</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>2</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>9</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>7</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>6</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
@@ -690,7 +705,7 @@
     <Is_Gop_Mau_Cam>false</Is_Gop_Mau_Cam>
   </tbl_Tinh_Hon>
   <tbl_Chien_Dich>
-    <Is_Auto_Chien_Dich>true</Is_Auto_Chien_Dich>
+    <Is_Auto_Chien_Dich>false</Is_Auto_Chien_Dich>
     <Is_Tu_Lap_To_Doi>false</Is_Tu_Lap_To_Doi>
     <Loai_Hinh_Lap_To_Doi>1</Loai_Hinh_Lap_To_Doi>
     <So_Luot_Toi_Thieu>4</So_Luot_Toi_Thieu>
