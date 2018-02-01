@@ -98,10 +98,10 @@
     <Giay_Chi_Dinh_Tiep_Theo>0</Giay_Chi_Dinh_Tiep_Theo>
   </tbl_Chien_Tich>
   <tbl_Chi_Tiet_Chien_Tich>
-    <ID_Ban_Do>15</ID_Ban_Do>
-    <Ten_Ban_Do>Thục quốc</Ten_Ban_Do>
-    <ID_Quan_Doi>900014</ID_Quan_Doi>
-    <Ten_Quan_Doi>Đại Hán Quân Đoàn - Level 112(Ngọc Tỷ （Tỷ lệ nhỏ）TímCuồng Sư （Tỉ lệ thấp）Xanh đậm Ban Ngạc （Tỉ lệ thấp）Xanh đậm) (exp:4608)</Ten_Quan_Doi>
+    <ID_Ban_Do>46</ID_Ban_Do>
+    <Ten_Ban_Do>Bản đồ kho báu &lt; 100</Ten_Ban_Do>
+    <ID_Quan_Doi>900202</ID_Quan_Doi>
+    <Ten_Quan_Doi>Quân đoàn hoạt động - Level 96(Bảo thạch 6 ( Tỷ lệ thấp )|6隨機八級寶石1個（中概率）) (exp:5076)</Ten_Quan_Doi>
     <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
     <Gioi_Han_Level>0</Gioi_Han_Level>
     <So_Nguoi_Chay>0</So_Nguoi_Chay>
@@ -109,9 +109,9 @@
   <tbl_Chi_Tiet_Chien_Tich>
     <ID_Ban_Do>46</ID_Ban_Do>
     <Ten_Ban_Do>Bản đồ kho báu &lt; 100</Ten_Ban_Do>
-    <ID_Quan_Doi>900202</ID_Quan_Doi>
-    <Ten_Quan_Doi>Quân đoàn hoạt động - Level 96(Bảo thạch 6 ( Tỷ lệ thấp )|6隨機八級寶石1個（中概率）) (exp:5076)</Ten_Quan_Doi>
-    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <ID_Quan_Doi>5715</ID_Quan_Doi>
+    <Ten_Quan_Doi>Lục Tích - Level 94(Kỳ Lân ( mảnh )|6) (exp:584)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>2</Loai_Hinh_Quan_Doi>
     <Gioi_Han_Level>0</Gioi_Han_Level>
     <So_Nguoi_Chay>0</So_Nguoi_Chay>
   </tbl_Chi_Tiet_Chien_Tich>
@@ -431,9 +431,9 @@
     <Is_LT_Xanh_Dam>false</Is_LT_Xanh_Dam>
     <Is_LT_Vang>false</Is_LT_Vang>
     <Is_LT_Do>false</Is_LT_Do>
-    <Gioi_Han_Uy_Phai>5</Gioi_Han_Uy_Phai>
+    <Gioi_Han_Uy_Phai>4</Gioi_Han_Uy_Phai>
     <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
-    <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>True</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
+    <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
     <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
   </tbl_Uy_Phai>
   <tbl_Thuong_Doi>
