@@ -581,6 +581,9 @@
   <tbl_BlackList_Truy_Na>
     <Ten_Tuong_Quan>thietduha</Ten_Tuong_Quan>
   </tbl_BlackList_Truy_Na>
+  <tbl_BlackList_Truy_Na>
+    <Ten_Tuong_Quan>quẩyphá</Ten_Tuong_Quan>
+  </tbl_BlackList_Truy_Na>
   <tbl_Event31_05>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Nen>false</Is_Mo_Nen>
@@ -809,6 +812,10 @@
   </tbl_Lich_Su_Truy_Na>
   <tbl_Lich_Su_Truy_Na>
     <Ten_Tuong_Quan>ThietDuHa</Ten_Tuong_Quan>
+    <So_Lan_Thua>0</So_Lan_Thua>
+  </tbl_Lich_Su_Truy_Na>
+  <tbl_Lich_Su_Truy_Na>
+    <Ten_Tuong_Quan>Quẩy Phá</Ten_Tuong_Quan>
     <So_Lan_Thua>0</So_Lan_Thua>
   </tbl_Lich_Su_Truy_Na>
   <tbl_Khoan_Dau>

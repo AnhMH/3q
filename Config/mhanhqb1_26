@@ -206,25 +206,11 @@
     <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
   </tbl_Trang_Bi>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>78324</ID_Trang_Bi>
+    <ID_Trang_Bi>25145</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>99</Ma_Luc_Nang_Cap>
-  </tbl_Trang_Bi_Nang_cap>
-  <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>421</ID_Trang_Bi>
-    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
-    <Limit_Level_1>0</Limit_Level_1>
-    <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
-  </tbl_Trang_Bi_Nang_cap>
-  <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>955</ID_Trang_Bi>
-    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
-    <Limit_Level_1>0</Limit_Level_1>
-    <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>95</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
     <ID_Trang_Bi>64751</ID_Trang_Bi>
@@ -242,6 +228,20 @@
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
     <ID_Trang_Bi>110412</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>421</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>955</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
@@ -348,14 +348,14 @@
     <Is_Auto_Nang_Linh_Thu>true</Is_Auto_Nang_Linh_Thu>
     <Ma_Luc_Nang_Linh_Thu>77</Ma_Luc_Nang_Linh_Thu>
     <Is_Auto_Ha_Linh_Thu>true</Is_Auto_Ha_Linh_Thu>
-    <Is_Auto_Ban_Linh_Thu>true</Is_Auto_Ban_Linh_Thu>
+    <Is_Auto_Ban_Linh_Thu>false</Is_Auto_Ban_Linh_Thu>
     <Is_Ban_Linh_Thu_Trang>true</Is_Ban_Linh_Thu_Trang>
     <Is_Ban_Linh_Thu_Xanh_Duong>true</Is_Ban_Linh_Thu_Xanh_Duong>
     <Is_Ban_Linh_Thu_Xanh_Dam>false</Is_Ban_Linh_Thu_Xanh_Dam>
     <Is_Ban_Linh_Thu_Vang>false</Is_Ban_Linh_Thu_Vang>
     <Is_Ban_Linh_Thu_Do>false</Is_Ban_Linh_Thu_Do>
     <Is_Ban_Linh_Thu_Tim>false</Is_Ban_Linh_Thu_Tim>
-    <Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>true</Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>
+    <Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>false</Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>
     <Is_Cho_Linh_Thu_An>false</Is_Cho_Linh_Thu_An>
     <SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>0</SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>
     <Is_Pha_Bang_Nang_Cap>false</Is_Pha_Bang_Nang_Cap>
