@@ -334,55 +334,7 @@
     <Chien_Tich_Nang_Ky_Nang>0</Chien_Tich_Nang_Ky_Nang>
   </tbl_Ky_Nang>
   <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>4</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>5</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>8</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>9</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>10</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>11</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>12</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>13</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>14</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>15</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>16</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>17</ID_Ky_Nang>
-    <Gioi_Han>0</Gioi_Han>
-  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
-  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
-    <ID_Ky_Nang>22</ID_Ky_Nang>
+    <ID_Ky_Nang>3</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Linh_Thu>
