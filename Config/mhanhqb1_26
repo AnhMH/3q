@@ -57,7 +57,7 @@
     <Is_Buff_BHC>false</Is_Buff_BHC>
     <Chien_Tich_BHC>0</Chien_Tich_BHC>
     <Tong_Chi_So_BHC>10</Tong_Chi_So_BHC>
-    <Is_Auto_Tu_Dong_Quay_So>false</Is_Auto_Tu_Dong_Quay_So>
+    <Is_Auto_Tu_Dong_Quay_So>true</Is_Auto_Tu_Dong_Quay_So>
     <Is_Auto_Diem_Tuong_Dai>false</Is_Auto_Diem_Tuong_Dai>
     <Is_Auto_Tram_Tuong>false</Is_Auto_Tram_Tuong>
     <Is_TTC_Tu_Nguu>false</Is_TTC_Tu_Nguu>
@@ -73,7 +73,7 @@
   <tbl_Chien_Tich>
     <Is_Auto_Chien_Tich>true</Is_Auto_Chien_Tich>
     <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>25</So_Luot_Toi_Thieu>
     <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
     <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
     <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>

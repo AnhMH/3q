@@ -57,7 +57,7 @@
     <Is_Buff_BHC>false</Is_Buff_BHC>
     <Chien_Tich_BHC>0</Chien_Tich_BHC>
     <Tong_Chi_So_BHC>10</Tong_Chi_So_BHC>
-    <Is_Auto_Tu_Dong_Quay_So>false</Is_Auto_Tu_Dong_Quay_So>
+    <Is_Auto_Tu_Dong_Quay_So>true</Is_Auto_Tu_Dong_Quay_So>
     <Is_Auto_Diem_Tuong_Dai>false</Is_Auto_Diem_Tuong_Dai>
     <Is_Auto_Tram_Tuong>false</Is_Auto_Tram_Tuong>
     <Is_TTC_Tu_Nguu>false</Is_TTC_Tu_Nguu>
