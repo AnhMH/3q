@@ -138,7 +138,7 @@
     <Loai_Hinh_Luyen_Tuong>1-20 phút</Loai_Hinh_Luyen_Tuong>
     <Is_Auto_Manh_Tien>true</Is_Auto_Manh_Tien>
     <Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>true</Is_Chi_Manh_Tuong_Level_Nho_Hon_Chuyen_Sinh>
-    <Chien_Tich_Manh_Tien>500000</Chien_Tich_Manh_Tien>
+    <Chien_Tich_Manh_Tien>800000</Chien_Tich_Manh_Tien>
     <Loai_Khoi_Tao_Huan_Luyen_Su>1</Loai_Khoi_Tao_Huan_Luyen_Su>
     <Is_Auto_Chuyen_Sinh>True</Is_Auto_Chuyen_Sinh>
     <Is_Auto_Cai_Tien>false</Is_Auto_Cai_Tien>
@@ -161,6 +161,14 @@
   <tbl_Danh_Sach_Luyen_Tuong>
     <ID_Tuong_Quan>2677</ID_Tuong_Quan>
   </tbl_Danh_Sach_Luyen_Tuong>
+  <tbl_Danh_Sach_Manh_Tien>
+    <ID_Tuong_Quan>1463</ID_Tuong_Quan>
+    <Manh_Tien_Limit>0</Manh_Tien_Limit>
+  </tbl_Danh_Sach_Manh_Tien>
+  <tbl_Danh_Sach_Manh_Tien>
+    <ID_Tuong_Quan>1572</ID_Tuong_Quan>
+    <Manh_Tien_Limit>0</Manh_Tien_Limit>
+  </tbl_Danh_Sach_Manh_Tien>
   <tbl_Danh_Sach_Huan_Luyen_Su>
     <ID_Huan_Luyen_Su>1</ID_Huan_Luyen_Su>
   </tbl_Danh_Sach_Huan_Luyen_Su>
@@ -187,6 +195,10 @@
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Danh_Sach_Chuyen_Sinh>
     <ID_Tuong_Quan>2338</ID_Tuong_Quan>
+    <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
+  </tbl_Danh_Sach_Chuyen_Sinh>
+  <tbl_Danh_Sach_Chuyen_Sinh>
+    <ID_Tuong_Quan>2677</ID_Tuong_Quan>
     <Is_Chuyen_Sinh_Bang_Xu>false</Is_Chuyen_Sinh_Bang_Xu>
   </tbl_Danh_Sach_Chuyen_Sinh>
   <tbl_Trang_Bi>
@@ -381,7 +393,7 @@
     <Thoi_Gian_Cho_Det>60</Thoi_Gian_Cho_Det>
     <Is_Tu_Tuyen_Thuong_Minh>false</Is_Tu_Tuyen_Thuong_Minh>
     <Thoi_Diem_Tuyen_Thuong_Minh>2000-01-01T11:00:00+07:00</Thoi_Diem_Tuyen_Thuong_Minh>
-    <Vai_Uu_Tien>7, 9, 11, 13, 14, 16, 19, 21, 22</Vai_Uu_Tien>
+    <Vai_Uu_Tien>7, 9, 11, 13, 14, 16, 19, 21, 22, 30</Vai_Uu_Tien>
   </tbl_Det>
   <tbl_Ky_Nang>
     <Is_Auto_Ky_Nang>true</Is_Auto_Ky_Nang>
@@ -688,10 +700,22 @@
     <Is_Tu_Tang_Cuong>false</Is_Tu_Tang_Cuong>
   </tbl_Event_San_Thu>
   <tbl_So_Nghien_Cuu>
-    <Is_Auto_Nghien_Cuu>false</Is_Auto_Nghien_Cuu>
+    <Is_Auto_Nghien_Cuu>true</Is_Auto_Nghien_Cuu>
     <Is_Nang_Cap_So_Nghien_Cuu>false</Is_Nang_Cap_So_Nghien_Cuu>
-    <Chien_Tich_Toi_Thieu>700000</Chien_Tich_Toi_Thieu>
+    <Chien_Tich_Toi_Thieu>500000</Chien_Tich_Toi_Thieu>
   </tbl_So_Nghien_Cuu>
+  <tbl_Ky_Nang_So_Nghien_Cuu>
+    <ID_Ky_Nang>3</ID_Ky_Nang>
+    <Is_Lam_Moi_Bang_Bac>false</Is_Lam_Moi_Bang_Bac>
+  </tbl_Ky_Nang_So_Nghien_Cuu>
+  <tbl_Ky_Nang_So_Nghien_Cuu>
+    <ID_Ky_Nang>4</ID_Ky_Nang>
+    <Is_Lam_Moi_Bang_Bac>false</Is_Lam_Moi_Bang_Bac>
+  </tbl_Ky_Nang_So_Nghien_Cuu>
+  <tbl_Ky_Nang_So_Nghien_Cuu>
+    <ID_Ky_Nang>6</ID_Ky_Nang>
+    <Is_Lam_Moi_Bang_Bac>false</Is_Lam_Moi_Bang_Bac>
+  </tbl_Ky_Nang_So_Nghien_Cuu>
   <tbl_Event27_09>
     <Is_Auto_Event>false</Is_Auto_Event>
     <Is_Mo_Den_Long>false</Is_Mo_Den_Long>
