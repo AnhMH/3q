@@ -6,7 +6,7 @@
     <Is_Tang_Cuong_Thu_Thue>false</Is_Tang_Cuong_Thu_Thue>
     <So_Xu_Tang_Cuong>30</So_Xu_Tang_Cuong>
     <Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>false</Is_Chi_Thu_Thue_Vao_Mua_Thu_Dong>
-    <So_Luot_Tich_Luy_Thu_Thue>0</So_Luot_Tich_Luy_Thu_Thue>
+    <So_Luot_Tich_Luy_Thu_Thue>37</So_Luot_Tich_Luy_Thu_Thue>
     <Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>false</Is_Chi_Thu_Thue_Khi_Chiem_Huu_Duong_Do>
   </tbl_Auto_ThuThue>
   <tbl_Auto_Ruong_Mo>
@@ -49,7 +49,7 @@
     <TTC_Loai_Co_Vu>0</TTC_Loai_Co_Vu>
     <TTC_Is_Pha_Bang>false</TTC_Is_Pha_Bang>
     <TTC_Top_Pha_Bang>10</TTC_Top_Pha_Bang>
-    <Is_Auto_Nhan_Thuong_Su_Kien>false</Is_Auto_Nhan_Thuong_Su_Kien>
+    <Is_Auto_Nhan_Thuong_Su_Kien>true</Is_Auto_Nhan_Thuong_Su_Kien>
     <Is_Auto_Cong_Thanh_Chien>true</Is_Auto_Cong_Thanh_Chien>
     <Is_Auto_Thu_Lua_Nong_Truong>true</Is_Auto_Thu_Lua_Nong_Truong>
     <Is_Log_Message>false</Is_Log_Message>
@@ -73,7 +73,7 @@
   <tbl_Chien_Tich>
     <Is_Auto_Chien_Tich>true</Is_Auto_Chien_Tich>
     <Is_Auto_Lap_To_Doi>false</Is_Auto_Lap_To_Doi>
-    <So_Luot_Toi_Thieu>25</So_Luot_Toi_Thieu>
+    <So_Luot_Toi_Thieu>0</So_Luot_Toi_Thieu>
     <Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>0</Thoi_Gian_Khong_Dung_Luot_Truoc_Gio_Tinh_Anh>
     <Loai_Hinh_Lap_To_Doi>2</Loai_Hinh_Lap_To_Doi>
     <Is_Dung_Xu_Pha_Bang>false</Is_Dung_Xu_Pha_Bang>
@@ -98,24 +98,6 @@
     <Giay_Chi_Dinh_Tiep_Theo>0</Giay_Chi_Dinh_Tiep_Theo>
   </tbl_Chien_Tich>
   <tbl_Chi_Tiet_Chien_Tich>
-    <ID_Ban_Do>26</ID_Ban_Do>
-    <Ten_Ban_Do>Hải lạp nhĩ</Ten_Ban_Do>
-    <ID_Quan_Doi>900026</ID_Quan_Doi>
-    <Ten_Quan_Doi>Hải Lạp Nhĩ Quân Đoàn - Level 142(Lôi Ngục (Tỷ lệ nhỏ)Tím) (exp:12729)</Ten_Quan_Doi>
-    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
-    <Gioi_Han_Level>0</Gioi_Han_Level>
-    <So_Nguoi_Chay>0</So_Nguoi_Chay>
-  </tbl_Chi_Tiet_Chien_Tich>
-  <tbl_Chi_Tiet_Chien_Tich>
-    <ID_Ban_Do>27</ID_Ban_Do>
-    <Ten_Ban_Do>Giang lâm</Ten_Ban_Do>
-    <ID_Quan_Doi>900025</ID_Quan_Doi>
-    <Ten_Quan_Doi>Giang Lâm Quân Đoàn - Level 142(Lôi Ngục (Tỷ lệ nhỏ)Tím) (exp:12729)</Ten_Quan_Doi>
-    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
-    <Gioi_Han_Level>0</Gioi_Han_Level>
-    <So_Nguoi_Chay>0</So_Nguoi_Chay>
-  </tbl_Chi_Tiet_Chien_Tich>
-  <tbl_Chi_Tiet_Chien_Tich>
     <ID_Ban_Do>28</ID_Ban_Do>
     <Ten_Ban_Do>Uyển Thành</Ten_Ban_Do>
     <ID_Quan_Doi>900027</ID_Quan_Doi>
@@ -129,6 +111,42 @@
     <Ten_Ban_Do>Bạch Thành</Ten_Ban_Do>
     <ID_Quan_Doi>900028</ID_Quan_Doi>
     <Ten_Quan_Doi>Bạch Thành Quân Đoàn - Level 160(Tạc Xỉ (tỷ lệ nhỏ) Tím) (exp:23799)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>30</ID_Ban_Do>
+    <Ten_Ban_Do>Đức Quảng</Ten_Ban_Do>
+    <ID_Quan_Doi>4112</ID_Quan_Doi>
+    <Ten_Quan_Doi>Trịnh Thắng - Level 141(Huyết Thạch 2~5 cái (tỷ lệ lớn)) (exp:846)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>2</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>30</ID_Ban_Do>
+    <Ten_Ban_Do>Đức Quảng</Ten_Ban_Do>
+    <ID_Quan_Doi>900029</ID_Quan_Doi>
+    <Ten_Quan_Doi>Đức Quảng Quân Đoàn - Level 145(Huyết Thạch 2~5 cái (tỷ lệ lớn)) (exp:11400)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>27</ID_Ban_Do>
+    <Ten_Ban_Do>Giang lâm</Ten_Ban_Do>
+    <ID_Quan_Doi>900025</ID_Quan_Doi>
+    <Ten_Quan_Doi>Giang Lâm Quân Đoàn - Level 142(Lôi Ngục (Tỷ lệ nhỏ)Tím) (exp:10800)</Ten_Quan_Doi>
+    <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
+    <Gioi_Han_Level>0</Gioi_Han_Level>
+    <So_Nguoi_Chay>0</So_Nguoi_Chay>
+  </tbl_Chi_Tiet_Chien_Tich>
+  <tbl_Chi_Tiet_Chien_Tich>
+    <ID_Ban_Do>26</ID_Ban_Do>
+    <Ten_Ban_Do>Hải lạp nhĩ</Ten_Ban_Do>
+    <ID_Quan_Doi>900026</ID_Quan_Doi>
+    <Ten_Quan_Doi>Hải Lạp Nhĩ Quân Đoàn - Level 142(Lôi Ngục (Tỷ lệ nhỏ)Tím) (exp:10800)</Ten_Quan_Doi>
     <Loai_Hinh_Quan_Doi>5</Loai_Hinh_Quan_Doi>
     <Gioi_Han_Level>0</Gioi_Han_Level>
     <So_Nguoi_Chay>0</So_Nguoi_Chay>
@@ -209,39 +227,46 @@
     <Bac_Toi_Thieu>0</Bac_Toi_Thieu>
   </tbl_Trang_Bi>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>64751</ID_Trang_Bi>
+    <ID_Trang_Bi>78324</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>100</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>72557</ID_Trang_Bi>
+    <ID_Trang_Bi>94344</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>100</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>110412</ID_Trang_Bi>
+    <ID_Trang_Bi>51568</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>95</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>421</ID_Trang_Bi>
+    <ID_Trang_Bi>84145</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>95</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Trang_Bi_Nang_cap>
-    <ID_Trang_Bi>955</ID_Trang_Bi>
+    <ID_Trang_Bi>106452</ID_Trang_Bi>
     <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
     <Limit_Level_1>0</Limit_Level_1>
     <Limit_Level_2>0</Limit_Level_2>
-    <Ma_Luc_Nang_Cap>0</Ma_Luc_Nang_Cap>
+    <Ma_Luc_Nang_Cap>95</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>107126</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>95</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
@@ -419,24 +444,35 @@
     <ID_Ky_Nang>17</ID_Ky_Nang>
     <Gioi_Han>0</Gioi_Han>
   </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>18</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
+  <tbl_Danh_Sach_Ky_Nang_Can_Nang>
+    <ID_Ky_Nang>19</ID_Ky_Nang>
+    <Gioi_Han>0</Gioi_Han>
+  </tbl_Danh_Sach_Ky_Nang_Can_Nang>
   <tbl_Linh_Thu>
     <Is_Auto_Linh_Thu>true</Is_Auto_Linh_Thu>
     <Is_Auto_Nang_Linh_Thu>true</Is_Auto_Nang_Linh_Thu>
     <Ma_Luc_Nang_Linh_Thu>77</Ma_Luc_Nang_Linh_Thu>
     <Is_Auto_Ha_Linh_Thu>true</Is_Auto_Ha_Linh_Thu>
-    <Is_Auto_Ban_Linh_Thu>false</Is_Auto_Ban_Linh_Thu>
+    <Is_Auto_Ban_Linh_Thu>true</Is_Auto_Ban_Linh_Thu>
     <Is_Ban_Linh_Thu_Trang>true</Is_Ban_Linh_Thu_Trang>
-    <Is_Ban_Linh_Thu_Xanh_Duong>true</Is_Ban_Linh_Thu_Xanh_Duong>
+    <Is_Ban_Linh_Thu_Xanh_Duong>false</Is_Ban_Linh_Thu_Xanh_Duong>
     <Is_Ban_Linh_Thu_Xanh_Dam>false</Is_Ban_Linh_Thu_Xanh_Dam>
     <Is_Ban_Linh_Thu_Vang>false</Is_Ban_Linh_Thu_Vang>
     <Is_Ban_Linh_Thu_Do>false</Is_Ban_Linh_Thu_Do>
     <Is_Ban_Linh_Thu_Tim>false</Is_Ban_Linh_Thu_Tim>
-    <Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>false</Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>
+    <Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>true</Is_Ban_Linh_Thu_Nam_Ngoai_Hanh_Trang>
     <Is_Cho_Linh_Thu_An>false</Is_Cho_Linh_Thu_An>
     <SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>0</SL_Tinh_Thach_Max_Khi_Cho_Linh_Thu_An>
     <Is_Pha_Bang_Nang_Cap>false</Is_Pha_Bang_Nang_Cap>
     <Is_Ban_Linh_Thu_Cam>false</Is_Ban_Linh_Thu_Cam>
   </tbl_Linh_Thu>
+  <tbl_Danh_Sach_Linh_Thu_Can_Nang>
+    <ID_Linh_Thu>8561</ID_Linh_Thu>
+  </tbl_Danh_Sach_Linh_Thu_Can_Nang>
   <tbl_Uy_Phai>
     <Is_Auto_Uy_Phai>true</Is_Auto_Uy_Phai>
     <Loai_Hinh_Uy_Phai>2</Loai_Hinh_Uy_Phai>
@@ -497,9 +533,6 @@
     <Ma_Luc_Thoi_Luyen>90</Ma_Luc_Thoi_Luyen>
     <Tinh_Thach_Thoi_Luyen>500</Tinh_Thach_Thoi_Luyen>
   </tbl_Thoi_Luyen>
-  <tbl_Thuong_Minh_Can_Det>
-    <ID_Thuong_Minh>1</ID_Thuong_Minh>
-  </tbl_Thuong_Minh_Can_Det>
   <tbl_Te_Than>
     <Is_Auto_Te_Than>false</Is_Auto_Te_Than>
     <Phuong_Thuc_Te_Than>2</Phuong_Thuc_Te_Than>
@@ -702,7 +735,7 @@
   <tbl_So_Nghien_Cuu>
     <Is_Auto_Nghien_Cuu>true</Is_Auto_Nghien_Cuu>
     <Is_Nang_Cap_So_Nghien_Cuu>false</Is_Nang_Cap_So_Nghien_Cuu>
-    <Chien_Tich_Toi_Thieu>500000</Chien_Tich_Toi_Thieu>
+    <Chien_Tich_Toi_Thieu>700000</Chien_Tich_Toi_Thieu>
   </tbl_So_Nghien_Cuu>
   <tbl_Ky_Nang_So_Nghien_Cuu>
     <ID_Ky_Nang>3</ID_Ky_Nang>
@@ -740,8 +773,8 @@
     <Area_ID6 />
   </tbl_Clear_Map>
   <tbl_Dong_Tuoc_Dai>
-    <Is_Auto_Dong_Tuoc_Dai>false</Is_Auto_Dong_Tuoc_Dai>
-    <Is_Nuoi_Bang_Bac>false</Is_Nuoi_Bang_Bac>
+    <Is_Auto_Dong_Tuoc_Dai>true</Is_Auto_Dong_Tuoc_Dai>
+    <Is_Nuoi_Bang_Bac>true</Is_Nuoi_Bang_Bac>
     <Is_Nuoi_Bang_Xu>false</Is_Nuoi_Bang_Xu>
     <So_Bac_Toi_Thieu_Nuoi_Chim>300000</So_Bac_Toi_Thieu_Nuoi_Chim>
     <So_Xu_Toi_Thieu_Nuoi_Chim>0</So_Xu_Toi_Thieu_Nuoi_Chim>

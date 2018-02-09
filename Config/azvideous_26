@@ -176,41 +176,41 @@
     <Limit_Level_2>0</Limit_Level_2>
     <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
   </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>58319</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>87973</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>112294</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
+  <tbl_Trang_Bi_Nang_cap>
+    <ID_Trang_Bi>100065</ID_Trang_Bi>
+    <Ma_Luc_Dung_Xu>0</Ma_Luc_Dung_Xu>
+    <Limit_Level_1>0</Limit_Level_1>
+    <Limit_Level_2>0</Limit_Level_2>
+    <Ma_Luc_Nang_Cap>87</Ma_Luc_Nang_Cap>
+  </tbl_Trang_Bi_Nang_cap>
   <tbl_Cong_Trinh>
     <Is_Auto_Nang_Cong_Trinh>true</Is_Auto_Nang_Cong_Trinh>
     <Bac_Nang_Cong_Trinh>0</Bac_Nang_Cong_Trinh>
     <Level_Ep_Cap_Toan_Bo>100</Level_Ep_Cap_Toan_Bo>
   </tbl_Cong_Trinh>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>24</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>21</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>20</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>23</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>22</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>6</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>7</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>9</ID_Cong_Trinh>
+    <ID_Cong_Trinh>1</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -226,15 +226,15 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>1</ID_Cong_Trinh>
+    <ID_Cong_Trinh>6</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>12</ID_Cong_Trinh>
+    <ID_Cong_Trinh>7</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>11</ID_Cong_Trinh>
+    <ID_Cong_Trinh>9</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -242,15 +242,11 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>16</ID_Cong_Trinh>
+    <ID_Cong_Trinh>11</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>15</ID_Cong_Trinh>
-    <Level_Ep_Cap>0</Level_Ep_Cap>
-  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>14</ID_Cong_Trinh>
+    <ID_Cong_Trinh>12</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -258,7 +254,15 @@
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
-    <ID_Cong_Trinh>19</ID_Cong_Trinh>
+    <ID_Cong_Trinh>14</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>15</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>16</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
@@ -267,6 +271,30 @@
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
     <ID_Cong_Trinh>18</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>19</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>20</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>21</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>22</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>23</ID_Cong_Trinh>
+    <Level_Ep_Cap>0</Level_Ep_Cap>
+  </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+  <tbl_Danh_Sach_Cong_Trinh_Can_Nang>
+    <ID_Cong_Trinh>24</ID_Cong_Trinh>
     <Level_Ep_Cap>0</Level_Ep_Cap>
   </tbl_Danh_Sach_Cong_Trinh_Can_Nang>
   <tbl_Det>
@@ -374,7 +402,7 @@
     <Is_LT_Xanh_Dam>false</Is_LT_Xanh_Dam>
     <Is_LT_Vang>false</Is_LT_Vang>
     <Is_LT_Do>false</Is_LT_Do>
-    <Gioi_Han_Uy_Phai>4</Gioi_Han_Uy_Phai>
+    <Gioi_Han_Uy_Phai>5</Gioi_Han_Uy_Phai>
     <Is_Dung_Xu_Pha_Bang_Toc_Hanh>false</Is_Dung_Xu_Pha_Bang_Toc_Hanh>
     <Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>False</Is_Chi_Uy_Phai_Khi_Co_Luot_Mien_Phi>
     <Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>false</Is_Ngung_Khi_Dat_Gioi_Han_Uy_Phai>
